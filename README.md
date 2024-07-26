@@ -8,10 +8,12 @@
 ### 🔭 I’m currently working on ...
 -
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ... <img width="700" alt="2" src="https://github.com/user-attachments/assets/911c32af-f986-45c3-afe5-5b7ee82e98c8"> <img width="700" alt="2" src="https://github.com/user-attachments/assets/2b26d6b0-3999-4f4a-8b08-6e076cb75cb6"> <img width="700" alt="2" src="https://github.com/user-attachments/assets/e50ce8dc-f63c-47ff-8f0e-c9da52588dda">
+<img width="700" alt="2" src="https://github.com/user-attachments/assets/416a206b-fa75-4308-8174-c3c23df4ba40"> <img width="700" alt="2" src="https://github.com/user-attachments/assets/f1f0906a-dd0a-4fa8-88d9-46bcd90e0897"> <img width="700" alt="2" src=""> <img width="700" alt="2" src="">
+<img width="700" alt="2" src=""> <img width="700" alt="2" src=""> <img width="700" alt="2" src=""> 
 - Advanced techniques in CAN/CAN-FD and Ethernet communication for automotive applications.
 - Digital 3D printing fundamentals and applications in engineering.
-- MySQl, mongoDB, SQLite, html, css, react, node js, python(django), c, c++,c#
+- c, c++,c#, python(django), react, node js MySQl, mongoDB, SQLite, html, css, arduino
 
 ### 💼 Professional Experience
 #### Internship at 한국알프스 (Jan 2024 - Feb 2024)
