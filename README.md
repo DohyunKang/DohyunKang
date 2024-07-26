@@ -6,7 +6,7 @@
 </div>
 
 ### 🔭 I’m currently working on ...
-- <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈[Techways] : (2024.08.01 ~ now)
+- <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈[Techways] : (Aug 2024 ~ Now)
 
 ### 🌱 I’m currently learning & interested in ... 
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/911c32af-f986-45c3-afe5-5b7ee82e98c8"> 
@@ -44,7 +44,7 @@
 - Analyzed CAN signal data with CANoe software and VT systems for automation scenarios.
 - Gained practical experience in the automotive industry's communication protocols and diagnostic processes【24†source】  .
 
-#### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈 (Aug 2024 - Feb 2024)
+#### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈 (Aug 2024 - Feb 2025)
 - Developed autonomous driving verification solutions and vehicle control software using C#.
 
 ### 🏫 Academic Involvement
