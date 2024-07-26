@@ -25,6 +25,7 @@
 <img width="80" alt="2" src="https://github.com/user-attachments/assets/3e01000e-5e0c-47e3-9330-0ca73dd73627">
 
 - Advanced techniques in CAN/CAN-FD and Ethernet communication for automotive applications.
+- Web site programming and application programming
 - Digital 3D printing fundamentals and applications in engineering.
 - c, c++(Arduino),c#, python(django), javascripts(react, node js), html, css, Sqlite, MySQl, mongoDB
 
