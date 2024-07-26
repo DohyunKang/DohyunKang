@@ -6,7 +6,7 @@
 </div>
 
 ### 🔭 I’m currently working on ...
-- <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc">테크웨이즈[Techways] : (2024.08.01 ~ now)
+- <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈[Techways] : (2024.08.01 ~ now)
 
 ### 🌱 I’m currently learning & interested in ... 
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/911c32af-f986-45c3-afe5-5b7ee82e98c8"> 
@@ -32,19 +32,19 @@
 
 ### 💼 Professional Experience
 
-#### Undergraduate Researcher at <img width="15" alt="2" src="https://github.com/user-attachments/assets/fb126461-b453-41ac-9859-c2597d137884">MIEMI (Sep 2022 - Dec 2023)
+#### Undergraduate Researcher at <img width="15" alt="2" src="https://github.com/user-attachments/assets/fb126461-b453-41ac-9859-c2597d137884"> High-frequency antenna design lab. (Sep 2022 - Dec 2023)
 - Collaborated with the Rural Development Administration and Andong National University on a beehive IoT system.
 - Contributed to the development of an embedded system and web page using MySQL.
 - Participated in lab meetings and experiments focused on antennas and electromagnetics.
 - Designed antennas using CST and performed PCB soldering.
 - Conducted experiments using signal generators, VNAs, and spectrum analyzers.
 - 
-#### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8a001b3e-9368-4d71-a37b-ad38ae44debf">한국알프스 (Jan 2024 - Feb 2024)
+#### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8a001b3e-9368-4d71-a37b-ad38ae44debf"> 한국알프스 (Jan 2024 - Feb 2024)
 - Conducted simulation and verification of vehicle switch products using CAN communication.
 - Analyzed CAN signal data with CANoe software and VT systems for automation scenarios.
 - Gained practical experience in the automotive industry's communication protocols and diagnostic processes【24†source】  .
 
-#### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc">테크웨이즈 (Aug 2024 - Feb 2024)
+#### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈 (Aug 2024 - Feb 2024)
 - Developed autonomous driving verification solutions and vehicle control software using C#.
 
 ### 🏫 Academic Involvement
