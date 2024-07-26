@@ -6,12 +6,12 @@
 </div>
 
 ### 🔭 I’m currently working on ...
-- Development of communication-enabled safety helmets to prevent industrial accidents.
-- Analyzing and testing vehicle ECU communication systems using CANoe and VT systems.
+-
 
 ### 🌱 I’m currently learning ...
 - Advanced techniques in CAN/CAN-FD and Ethernet communication for automotive applications.
 - Digital 3D printing fundamentals and applications in engineering.
+- MySQl, mongoDB, SQLite, html, css, react, node js, python(django), c, c++,c#
 
 ### 💼 Professional Experience
 #### Internship at 한국알프스 (Jan 2024 - Feb 2024)
@@ -20,13 +20,14 @@
 - Gained practical experience in the automotive industry's communication protocols and diagnostic processes【24†source】  .
 
 #### Internship at 테크웨이즈 (Aug 2024 - Feb 2024)
-- Worked on projects involving MySQL, MongoDB, and SQLite databases.
-- Developed front-end applications using HTML, CSS, and React.
-- Implemented backend services with Node.js and Python (Django).
+- Developed autonomous driving verification solutions and vehicle control software using C#.
 
 #### Undergraduate Researcher at MIEMI (Sep 2022 - Dec 2023)
-- Conducted research on communication protocols and their applications in IoT.
-- Collaborated on projects that involved C, C++, and C# programming languages.
+- Collaborated with the Rural Development Administration and Andong National University on a beehive IoT system.
+- Contributed to the development of an embedded system and web page using MySQL.
+- Participated in lab meetings and experiments focused on antennas and electromagnetics.
+- Designed antennas using CST and performed PCB soldering.
+- Conducted experiments using signal generators, VNAs, and spectrum analyzers.
 
 ### 🏆 Certifications
 - **디지털 3D 프린팅 기초 교육** (Incheon National University, Dec 2023)
@@ -48,7 +49,7 @@
   - Awarded for excellence in the Industry-Academia Capstone Design competition for the project "Safety Helmet with Communication Function for Accident Prevention".
 
 ### 📫 How to reach me:
-- **Email**: kangdohyun@example.com
+- **Email**: gulpo1@naver.com / kid708502@gmail.com	
 - **LinkedIn**: [linkedin.com/in/kangdohyun](https://www.linkedin.com/in/kangdohyun)
 
 ### ⚡ Fun fact:
@@ -65,5 +66,4 @@ I will continue to update my GitHub profile and portfolio with new projects and 
 ---
 
 References:
-- [디지털 3D 프린팅 기초 교육 수료증.pdf](23)
-- [한국알프스.docx](24)
+-
