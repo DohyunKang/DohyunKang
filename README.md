@@ -26,9 +26,17 @@
 
 - Advanced techniques in CAN/CAN-FD and Ethernet communication for automotive applications.
 - Digital 3D printing fundamentals and applications in engineering.
-- c, c++,c#, python(django), react, node js MySQl, mongoDB, SQLite, html, css, arduino
+- c, c++(Arduino),c#, python(django), javascripts(react, node js), html, css, Sqlite, MySQl, mongoDB
 
 ### 💼 Professional Experience
+
+#### Undergraduate Researcher at MIEMI (Sep 2022 - Dec 2023)
+- Collaborated with the Rural Development Administration and Andong National University on a beehive IoT system.
+- Contributed to the development of an embedded system and web page using MySQL.
+- Participated in lab meetings and experiments focused on antennas and electromagnetics.
+- Designed antennas using CST and performed PCB soldering.
+- Conducted experiments using signal generators, VNAs, and spectrum analyzers.
+- 
 #### Internship at 한국알프스 (Jan 2024 - Feb 2024)
 - Conducted simulation and verification of vehicle switch products using CAN communication.
 - Analyzed CAN signal data with CANoe software and VT systems for automation scenarios.
@@ -37,21 +45,13 @@
 #### Internship at 테크웨이즈 (Aug 2024 - Feb 2024)
 - Developed autonomous driving verification solutions and vehicle control software using C#.
 
-#### Undergraduate Researcher at MIEMI (Sep 2022 - Dec 2023)
-- Collaborated with the Rural Development Administration and Andong National University on a beehive IoT system.
-- Contributed to the development of an embedded system and web page using MySQL.
-- Participated in lab meetings and experiments focused on antennas and electromagnetics.
-- Designed antennas using CST and performed PCB soldering.
-- Conducted experiments using signal generators, VNAs, and spectrum analyzers.
-
 ### 🏆 Certifications
+- **기업가정신 교육** (Incheon National University, Oct 2023)
+  - Completed the Entrepreneurial Spirit Education program.
 - **디지털 3D 프린팅 기초 교육** (Incheon National University, Dec 2023)
   - Completed the Digital 3D Printing Basic Education program.
   - Certificate No.: 2023-교내비교과-011974
   - Issued by: Incheon University Engineering Education Innovation Center【23†source】.
-- **기업가정신 교육** (Incheon National University, Oct 2023)
-  - Completed the Entrepreneurial Spirit Education program.
-  - Certificate No.: 2023-01-05【23†source】.
 - **차량용 CAN/CAN-FD** (Sungkyunkwan University, Jun 2024)
   - Completed training in Vehicle CAN/CAN-FD.
   - Issued by: Sungkyunkwan University Future Automotive Technology Fusion Innovation Talent Development Project Team【23†source】.
@@ -69,7 +69,8 @@
 
 ### ⚡ Fun fact:
 - I have a keen interest in autonomous driving technology and aim to contribute to the development of smart mobility solutions.
-
+- I also have interest in Be & Fe programming.
+- 
 ### 📝 Portfolio
 - [GitHub](https://github.com/DohyunKang)
 - [Portfolio Website](https://dohyunportfolio.com)
