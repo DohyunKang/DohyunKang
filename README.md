@@ -16,13 +16,14 @@
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/6612f30b-f9b9-4fb1-9130-4c4ab585fe2e"> 
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/e5b5e0da-18e0-4d3c-be22-10ce4dbebffa"> 
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/e50ce8dc-f63c-47ff-8f0e-c9da52588dda">
-<img width="60" alt="2" src="https://github.com/user-attachments/assets/00b38b6f-1d73-419c-9aea-16b7f1916363"> 
+<img width="40" alt="2" src="https://github.com/user-attachments/assets/00b38b6f-1d73-419c-9aea-16b7f1916363"> 
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/e0cf7f02-b591-4803-b90a-564474b336fe"> 
-<img width="45" alt="2" src="https://github.com/user-attachments/assets/50f2bd98-cfd3-4bd6-9cb3-5250cec9152b"> 
-<img width="30" alt="2" src="https://github.com/user-attachments/assets/d10760f5-d2be-451f-9ae7-24a5b28c834f">
+<img width="35" alt="2" src="https://github.com/user-attachments/assets/50f2bd98-cfd3-4bd6-9cb3-5250cec9152b"> 
+<img width="20" alt="2" src="https://github.com/user-attachments/assets/d10760f5-d2be-451f-9ae7-24a5b28c834f">
 <img width="70" alt="2" src="https://github.com/user-attachments/assets/9af70b64-9280-44c2-86ba-9e14eca1a374">
-<img width="50" alt="2" src="https://github.com/user-attachments/assets/82fe880c-ef67-4248-97be-5a1d9aa43299">
-<img width="80" alt="2" src="https://github.com/user-attachments/assets/3e01000e-5e0c-47e3-9330-0ca73dd73627">
+<img width="40" alt="2" src="https://github.com/user-attachments/assets/82fe880c-ef67-4248-97be-5a1d9aa43299">
+<img width="70" alt="2" src="https://github.com/user-attachments/assets/3e01000e-5e0c-47e3-9330-0ca73dd73627">
+
 - Advanced techniques in CAN/CAN-FD and Ethernet communication for automotive applications.
 - Web site programming and application programming
 - Digital 3D printing fundamentals and applications in engineering.
