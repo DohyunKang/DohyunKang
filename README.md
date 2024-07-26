@@ -45,6 +45,12 @@
 #### Internship at 테크웨이즈 (Aug 2024 - Feb 2024)
 - Developed autonomous driving verification solutions and vehicle control software using C#.
 
+#### 🏫 Academic Involvement
+- Programming Academic Club (2019 - 2021)
+- Member of the Programming Academic Club in the Department of Information and Communication Engineering.
+- Participated in various programming projects and hackathons.
+- Contributed to club activities by mentoring junior students in programming languages such as C, C++, and Python.
+
 ### 🏆 Certifications
 - **기업가정신 교육** (Incheon National University, Oct 2023)
   - Completed the Entrepreneurial Spirit Education program.
