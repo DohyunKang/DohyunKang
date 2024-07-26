@@ -13,13 +13,13 @@
 <img width="110" alt="2" src="https://github.com/user-attachments/assets/2b26d6b0-3999-4f4a-8b08-6e076cb75cb6">
 <img width="100" alt="2" src="https://github.com/user-attachments/assets/f1f0906a-dd0a-4fa8-88d9-46bcd90e0897">
 <img width="100" alt="2" src="https://github.com/user-attachments/assets/2bf12873-6b2a-42bf-9d6b-3e794857e17b">
-<img width="100" alt="2" src="https://github.com/user-attachments/assets/af7da52c-d688-4fb0-9da0-2e8758c7733e"> 
+<img width="100" alt="2" src="https://github.com/user-attachments/assets/6612f30b-f9b9-4fb1-9130-4c4ab585fe2e"> 
 <img width="100" alt="2" src="https://github.com/user-attachments/assets/e50ce8dc-f63c-47ff-8f0e-c9da52588dda">
 <img width="100" alt="2" src="https://github.com/user-attachments/assets/e5b5e0da-18e0-4d3c-be22-10ce4dbebffa"> 
-<img width="100" alt="2" src="https://github.com/user-attachments/assets/e5b5e0da-18e0-4d3c-be22-10ce4dbebffa">
 <img width="100" alt="2" src="https://github.com/user-attachments/assets/00b38b6f-1d73-419c-9aea-16b7f1916363"> 
 <img width="100" alt="2" src="https://github.com/user-attachments/assets/e0cf7f02-b591-4803-b90a-564474b336fe"> 
-<img width="100" alt="2" src="https://github.com/user-attachments/assets/af7da52c-d688-4fb0-9da0-2e8758c7733e"> 
+<img width="100" alt="2" src=""> 
+<img width="100" alt="2" src="">
 - Advanced techniques in CAN/CAN-FD and Ethernet communication for automotive applications.
 - Digital 3D printing fundamentals and applications in engineering.
 - c, c++,c#, python(django), react, node js MySQl, mongoDB, SQLite, html, css, arduino
