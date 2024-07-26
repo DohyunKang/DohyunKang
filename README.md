@@ -6,7 +6,7 @@
 </div>
 
 ### 🔭 I’m currently working on ...
-- <img width="60" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc">테크웨이즈[Techways] : (2024.08.01 ~ now)
+- <img width="20" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc">테크웨이즈[Techways] : (2024.08.01 ~ now)
 
 ### 🌱 I’m currently learning & interested in ... 
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/911c32af-f986-45c3-afe5-5b7ee82e98c8"> 
