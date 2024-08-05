@@ -8,8 +8,6 @@
 ### 🔭 I’m currently working on ...
 - <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈[Techways] : (Aug 2024 ~ Now)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DohyunKang&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🌱 I’m currently learning & interested in ... 
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/911c32af-f986-45c3-afe5-5b7ee82e98c8"> 
 <img width="65" alt="2" src="https://github.com/user-attachments/assets/2b26d6b0-3999-4f4a-8b08-6e076cb75cb6">
