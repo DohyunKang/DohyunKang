@@ -33,7 +33,7 @@
 ### 💼 Professional Experience
 
 #### Undergraduate Researcher at <img width="15" alt="2" src="https://github.com/user-attachments/assets/fb126461-b453-41ac-9859-c2597d137884"> High-frequency antenna design lab. (Sep 2022 - Dec 2023)
-- Collaborated with the Rural Development Administration and Andong National University on a beehive IoT system.
+- Collaborated with the Agricultural and Rural Development Administration and Andong National University on a beehive IoT system.
 - Contributed to the development of an embedded system and web page using MySQL.
 - Participated in lab meetings and experiments focused on antennas and electromagnetics.
 - Designed antennas using CST and performed PCB soldering.
