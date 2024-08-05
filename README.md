@@ -45,7 +45,7 @@
 - Gained practical experience in the automotive industry's communication protocols and diagnostic processes【24†source】  .
 
 #### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈 (Aug 2024 - Feb 2025)
-- Developed autonomous driving verification solutions and vehicle control software using C#.
+- Developed autonomous driving verification solutions and vehicle control software using C# and LabView.
 
 ### 🏫 Academic Involvement
 - Programming Academic Club "NULL" (2019 - 2023)
