@@ -28,6 +28,7 @@
 <img width="70" alt="2" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - Control and ECU-related coding technology for automotive applications.
 - Advanced techniques in CAN/CAN-FD and Ethernet communication for automotive applications.
