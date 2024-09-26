@@ -5,6 +5,9 @@
 
 </div>
 
+### Percentage of computer language use
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulpo1@naver.com)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔭 I’m currently working on ...
 - <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈[Techways] : (Aug 2024 ~ Now)
 
