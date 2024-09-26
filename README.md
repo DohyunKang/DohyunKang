@@ -27,6 +27,8 @@
 <img width="40" alt="2" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img width="70" alt="2" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 - Control and ECU-related coding technology for automotive applications.
 - Advanced techniques in CAN/CAN-FD and Ethernet communication for automotive applications.
 - Web site programming and application programming
