@@ -12,18 +12,18 @@
 - <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈[Techways] : (Aug 2024 ~ Now)
 
 ### 🌱 I’m currently learning & interested in ... 
-<img width="60" alt="2" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
-<img width="65" alt="2" src="https://github.com/user-attachments/assets/2b26d6b0-3999-4f4a-8b08-6e076cb75cb6">
-<img width="60" alt="2" src="https://github.com/user-attachments/assets/f1f0906a-dd0a-4fa8-88d9-46bcd90e0897">
-<img width="60" alt="2" src="https://github.com/user-attachments/assets/2bf12873-6b2a-42bf-9d6b-3e794857e17b">
-<img width="60" alt="2" src="https://github.com/user-attachments/assets/6612f30b-f9b9-4fb1-9130-4c4ab585fe2e"> 
+<img width="60" alt="2" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
+<img width="65" alt="2" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img width="60" alt="2" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img width="60" alt="2" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img width="60" alt="2" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/e5b5e0da-18e0-4d3c-be22-10ce4dbebffa"> 
-<img width="60" alt="2" src="https://github.com/user-attachments/assets/e50ce8dc-f63c-47ff-8f0e-c9da52588dda">
+<img width="60" alt="2" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img width="40" alt="2" src="https://github.com/user-attachments/assets/00b38b6f-1d73-419c-9aea-16b7f1916363"> 
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/e0cf7f02-b591-4803-b90a-564474b336fe"> 
 <img width="35" alt="2" src="https://github.com/user-attachments/assets/50f2bd98-cfd3-4bd6-9cb3-5250cec9152b"> 
 <img width="25" alt="2" src="https://github.com/user-attachments/assets/d10760f5-d2be-451f-9ae7-24a5b28c834f">
-<img width="70" alt="2" src="https://github.com/user-attachments/assets/9af70b64-9280-44c2-86ba-9e14eca1a374">
+<img width="70" alt="2" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img width="40" alt="2" src="https://github.com/user-attachments/assets/82fe880c-ef67-4248-97be-5a1d9aa43299">
 <img width="70" alt="2" src="https://github.com/user-attachments/assets/3e01000e-5e0c-47e3-9330-0ca73dd73627">
 
