@@ -12,7 +12,7 @@
 - <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈[Techways] : (Aug 2024 ~ Now)
 
 ### 🌱 I’m currently learning & interested in ... 
-<img width="60" alt="2" src="https://github.com/user-attachments/assets/911c32af-f986-45c3-afe5-5b7ee82e98c8"> 
+<img width="60" alt="2" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
 <img width="65" alt="2" src="https://github.com/user-attachments/assets/2b26d6b0-3999-4f4a-8b08-6e076cb75cb6">
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/f1f0906a-dd0a-4fa8-88d9-46bcd90e0897">
 <img width="60" alt="2" src="https://github.com/user-attachments/assets/2bf12873-6b2a-42bf-9d6b-3e794857e17b">
