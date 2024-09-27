@@ -5,10 +5,10 @@
 
 </div>
 
-![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyunKang&count_private=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh708502)](https://solved.ac/kdh708502/)
-
 ### 📊 Percentage of computer language use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DohyunKang)](https://github.com/anuraghazra/github-readme-stats)
+
+![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyunKang&count_private=true)
 
 ### 💡 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh708502)](https://solved.ac/kdh708502/)
