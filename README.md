@@ -5,8 +5,8 @@
 
 </div>
 
-### 📊 Percentage of computer language use ### 💡 Solved.ac
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DohyunKang)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh708502)](https://solved.ac/kdh708502/)
+### 📊 Percentage of computer language use
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DohyunKang)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💡 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh708502)](https://solved.ac/kdh708502/)
