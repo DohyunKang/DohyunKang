@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDohyunKang&count_bg=%2385EF45&title_bg=%2323E9F9&icon=visualstudio.svg&icon_color=%232571E5&title=today+%2F+all&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-###
+
 ![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyunKang&count_private=true)
 
 ### 📊 Percentage of computer language use
