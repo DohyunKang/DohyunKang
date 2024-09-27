@@ -8,10 +8,8 @@
 ### 📊 Percentage of computer language use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DohyunKang)](https://github.com/anuraghazra/github-readme-stats)
 
-![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyunKang&count_private=true)
-
-### 💡 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh708502)](https://solved.ac/kdh708502/)
+### 💡 Solved.ac & Gihub stat
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh708502)](https://solved.ac/kdh708502/)  ![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyunKang&count_private=true)
 
 ### 🔭 I’m currently working on ...
 - <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈[Techways] : (Aug 2024 ~ Now)
