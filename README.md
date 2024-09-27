@@ -5,7 +5,7 @@
 
 </div>
 
-![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyunKang&count_private=true)
+![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyunKang&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DohyunKang)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 Percentage of computer language use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DohyunKang)](https://github.com/anuraghazra/github-readme-stats)
