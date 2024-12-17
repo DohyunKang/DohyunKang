@@ -17,7 +17,7 @@
 ### 🌱 I’m currently learning & interested in ... 
 
 <p align="center">
-  <img width = 100 src = "https://github.com/user-attachments/assets/6a314ca1-ea4b-452c-ad38-cfa3d9a61aeb">
+  <img width = 200 src = "https://github.com/user-attachments/assets/6a314ca1-ea4b-452c-ad38-cfa3d9a61aeb">
 </p>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
