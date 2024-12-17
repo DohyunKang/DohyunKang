@@ -16,7 +16,7 @@
 
 ### 🌱 I’m currently learning & interested in ... 
 
-![Embeded System](https://github.com/user-attachments/assets/6a314ca1-ea4b-452c-ad38-cfa3d9a61aeb)
+<img width = 500 src = "https://github.com/user-attachments/assets/6a314ca1-ea4b-452c-ad38-cfa3d9a61aeb">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
