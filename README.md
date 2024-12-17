@@ -77,6 +77,10 @@
 ### 🥇 Awards
 - **산학 캡스톤디자인 은상** (Incheon National University, Jul 2023)
   - Awarded for excellence in the Industry-Academia Capstone Design competition for the project "Safety Helmet with Communication Function for Accident Prevention".
+- **2024 한이음 ICT 멘토링 공모전 입선** (Korea Information Industry Association, Dec 2024)
+  - The project "Smart Parking System for Villa with Small Parking Spaces" was awarded in recognition of its excellence in the 2024 Han-eum ICT mentoring.
+- **ICT 멘토링 학술대회 [ACK 2024] 우수상** (Korea Information Processing Association, Nov 2024)
+  - The "Smart Parking System for Villas with Small Parking Spaces" project was awarded in recognition of the excellence of the ACK Academic Conference in 2024.
 
 ### 📫 How to reach me:
 - **Email**: gulpo1@naver.com / kid708502@gmail.com	
