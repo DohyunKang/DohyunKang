@@ -96,7 +96,8 @@
 - 
 ### 📝 Portfolio
 - [GitHub](https://github.com/DohyunKang)
-- [Portfolio Website](https://dohyunportfolio.com)
+- [TechWays 활동 수기 : 수기공모_정보통신공학과_강도현.pdf](https://github.com/user-attachments/files/18501943/_._.pdf)
+
 
 ---
 
