@@ -97,6 +97,7 @@
 ### 📝 Portfolio
 - [GitHub](https://github.com/DohyunKang)
 - [TechWays 활동 수기_강도현.pdf](https://github.com/user-attachments/files/18501943/_._.pdf)
+- [일학습병행 종합보고서_강도현.pdf](https://github.com/user-attachments/files/18502016/_.pdf)
 
 
 ---
