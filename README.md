@@ -53,7 +53,7 @@
 #### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈 (Aug 2024 - Feb 2025)
 - Developed autonomous driving verification solutions and vehicle control software using C# and LabView.
 
-### BootCamp at <img width="15" height="15" alt="telechips" src="https://github.com/user-attachments/assets/f38da694-7c2a-4f84-a591-995a3d93ad3a"> 텔레칩스 (Feb 2026 - Present)
+#### BootCamp at <img width="15" height="15" alt="telechips" src="https://github.com/user-attachments/assets/f38da694-7c2a-4f84-a591-995a3d93ad3a"> 텔레칩스 (Feb 2026 - Present)
 - **Low-Level System Development**: Intensive 6-month technical training focused on C, C++, and system architecture.
 - **Kernel & Embedded Core**: Deep dive into Linux kernel internals, device drivers, and hardware-level porting.
 - **Project-Driven Learning**: Developing embedded OS solutions, mini-games (Allegro), and performing disassembly analysis for optimization.
