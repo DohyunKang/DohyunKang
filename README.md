@@ -36,7 +36,7 @@
 - Digital 3D printing fundamentals and applications in engineering.
 - c, c++(Arduino),c#, python(django), javascripts(react, node js), html, css, Sqlite, MySQl, mongoDB
 
-### 💼 Professional Experience
+### 💼 Experience
 
 #### Undergraduate Researcher at <img width="15" alt="2" src="https://github.com/user-attachments/assets/fb126461-b453-41ac-9859-c2597d137884"> High-frequency antenna design lab. (Sep 2022 - Dec 2023)
 - Collaborated with the Agricultural and Rural Development Administration and Andong National University on a beehive IoT system.
@@ -52,6 +52,9 @@
 
 #### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈 (Aug 2024 - Feb 2025)
 - Developed autonomous driving verification solutions and vehicle control software using C# and LabView.
+
+### BootCamp at <img width="15" height="15" alt="2" src="https://github.com/user-attachments/assets/f38da694-7c2a-4f84-a591-995a3d93ad3a" /> 텔레칩스 (Feb 2026 - ing)
+
 
 ### 🏫 Academic Involvement
 - Programming Academic Club "NULL" (2019 - 2023)
