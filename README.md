@@ -89,7 +89,7 @@
 
 ### 📫 How to reach me:
 - **Email**: gulpo1@naver.com / kid708502@gmail.com	
-- **LinkedIn**: [linkedin.com/in/kangdohyun](https://www.linkedin.com/in/kangdohyun)
+- **LinkedIn**: [linkedin.com/in/kangdohyun](https://www.linkedin.com/in/dohyun-kang-5a97933a5/)
 
 ### ⚡ Fun fact:
 - I have a keen interest in autonomous driving technology and aim to contribute to the development of smart mobility solutions.
