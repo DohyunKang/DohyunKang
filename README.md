@@ -5,7 +5,7 @@
 
 ### 💡 Solved.ac & Gihub stat
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh708502)](https://solved.ac/kdh708502/)  ![Dohyun's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=DohyunKang&show_icons=true&count_private=true&v=1.1)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyunKang&show_icons=true&theme=radical)
 ### 🔭 I’m currently working on ...
 - 
 
