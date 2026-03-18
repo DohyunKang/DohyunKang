@@ -4,8 +4,10 @@
 [![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=DohyunKang&layout=compact&v=1.1)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💡 Solved.ac & Gihub stat
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh708502)](https://solved.ac/kdh708502/)  ![Dohyun's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=DohyunKang&show_icons=true&count_private=true&v=1.1)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyunKang&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh708502)](https://solved.ac/kdh708502/) 
+[![Solved.ac 프로필](https://mazassumnida.vercel.app/api/generate_badge?boj=kdh708502)](https://solved.ac/profile/kdh708502)
+![Dohyun's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=DohyunKang&show_icons=true&count_private=true&v=1.1)
+
 ### 🔭 I’m currently working on ...
 - 
 
