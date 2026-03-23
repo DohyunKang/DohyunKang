@@ -90,6 +90,8 @@
   - The project "Smart Parking System for Villa with Small Parking Spaces" was awarded in recognition of its excellence in the 2024 Han-eum ICT mentoring.
 - **ICT 멘토링 학술대회 [ACK 2024] 논문 우수상** (Korea Information Processing Association, Nov 2024)
   - The "Smart Parking System for Villas with Small Parking Spaces" project was awarded in recognition of the excellence of the ACK Academic Conference in 2024.
+- **2024 현장교육실습 수기공모전 최우수상** (Incheon National University Field Practice Support Center, Feb 2025)
+  - Awarded the highest honor in the 2024 Field Education Practice Essay Contest hosted by the Incheon National University Field Practice Support Center, for the essay “Designing My Dream in the Field: A First Step Toward Becoming an Embedded Engineer”, based on internship experience at Techways.
 
 ### 📫 How to reach me:
 - **Email**: gulpo1@naver.com / kid708502@gmail.com	
