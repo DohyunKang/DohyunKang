@@ -97,8 +97,8 @@
 
 ### ⚡ Fun fact:
 - I have a keen interest in autonomous driving technology and aim to contribute to the development of smart mobility solutions.
-- I also have interest in Be & Fe programming.
-- 
+- I'm interested in vehicle electrical field embeddings and firmware.
+- I also have interest in Be & Fe programming & AI.
 ### 📝 Portfolio
 - [GitHub](https://github.com/DohyunKang)
 - [TechWays 활동 수기_강도현.pdf](https://github.com/user-attachments/files/18501943/_._.pdf)
