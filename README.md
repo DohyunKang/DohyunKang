@@ -72,34 +72,34 @@
 ### 🏆 Certifications
 - **기업가정신 교육** (Incheon National University, Oct 2023)
   - Completed the Entrepreneurial Spirit Education program.
-  - ![기업가정신](https://github.com/user-attachments/assets/08e2c556-888d-40f7-aab9-b45e781f2d10)
+  - [기업가정신](https://github.com/user-attachments/assets/08e2c556-888d-40f7-aab9-b45e781f2d10)
 - **디지털 3D 프린팅 기초 교육** (Incheon National University, Dec 2023)
   - Completed the Digital 3D Printing Basic Education program.
   - Certificate No.: 2023-교내비교과-011974
   - Issued by: Incheon University Engineering Education Innovation Center【23†source】.
-  - ![디지털 3D 프린팅 기초 교육 수료증.pdf](https://github.com/user-attachments/files/26171034/3D.pdf)
+  - [디지털 3D 프린팅 기초 교육 수료증.pdf](https://github.com/user-attachments/files/26171034/3D.pdf)
 - **차량용 CAN/CAN-FD** (Sungkyunkwan University, Jun 2024)
   - Completed training in Vehicle CAN/CAN-FD.
   - Issued by: Sungkyunkwan University Future Automotive Technology Fusion Innovation Talent Development Project Team【23†source】.
-  - ![미래형자동차24-40_인천대학교_강도현](https://github.com/user-attachments/assets/306c3f63-9adb-492a-9174-e4dc7ae60890)
+  - [미래형자동차24-40_인천대학교_강도현](https://github.com/user-attachments/assets/306c3f63-9adb-492a-9174-e4dc7ae60890)
 - **차량용 Ethernet** (Sungkyunkwan University, Jun 2024)
   - Completed training in Vehicle Ethernet.
   - Issued by: Sungkyunkwan University Future Automotive Technology Fusion Innovation Talent Development Project Team【23†source】.
-  - ![미래형자동차24-50_인천대학교_강도현](https://github.com/user-attachments/assets/a345faf5-0d0b-4cd9-9bf0-36ead058efb1)
+  - [미래형자동차24-50_인천대학교_강도현](https://github.com/user-attachments/assets/a345faf5-0d0b-4cd9-9bf0-36ead058efb1)
 
 ### 🥇 Awards
 - **산학 캡스톤디자인 은상** (Incheon National University, Jul 2023)
   - Awarded for excellence in the Industry-Academia Capstone Design competition for the project "Safety Helmet with Communication Function for Accident Prevention".
-  - ![산학 캡스톤 디자인 경진대회 은상](https://github.com/user-attachments/assets/767de768-612e-42a1-b81d-02c272f1bac8)
+  - [산학 캡스톤 디자인 경진대회 은상](https://github.com/user-attachments/assets/767de768-612e-42a1-b81d-02c272f1bac8)
 - **2024 한이음 ICT 멘토링 공모전 입선** (Korea Information Industry Association, Dec 2024)
   - The project "Smart Parking System for Villa with Small Parking Spaces" was awarded in recognition of its excellence in the 2024 Han-eum ICT mentoring.
+  - [한이음 ict 멘토링 입선](https://github.com/user-attachments/assets/764f76f7-8bba-4044-87d1-018d43c4c133)
 - **ICT 멘토링 학술대회 [ACK 2024] 논문 우수상** (Korea Information Processing Association, Nov 2024)
   - The "Smart Parking System for Villas with Small Parking Spaces" project was awarded in recognition of the excellence of the ACK Academic Conference in 2024.
-  - ![한이음 ict 멘토링 입선](https://github.com/user-attachments/assets/764f76f7-8bba-4044-87d1-018d43c4c133)
-  - ![ICT 멘토링 ACK 학술대회 우수상](https://github.com/user-attachments/assets/e9cdf6bc-03d3-4ed6-bbcf-18a28b3648df)
+  - [ICT 멘토링 ACK 학술대회 우수상](https://github.com/user-attachments/assets/e9cdf6bc-03d3-4ed6-bbcf-18a28b3648df)
 - **2024 현장교육실습 수기공모전 최우수상** (Incheon National University Field Practice Support Center, Feb 2025)
   - Awarded the highest honor in the 2024 Field Education Practice Essay Contest hosted by the Incheon National University Field Practice Support Center, for the essay “Designing My Dream in the Field: A First Step Toward Becoming an Embedded Engineer”, based on internship experience at Techways.
-  - ![현장실습 수기공모전 최우수상](https://github.com/user-attachments/assets/e949725d-57f4-47b2-b32e-18156a91c36c)
+  - [현장실습 수기공모전 최우수상](https://github.com/user-attachments/assets/e949725d-57f4-47b2-b32e-18156a91c36c)
 
 ### 📫 How to reach me:
 - **Email**: gulpo1@naver.com / kid708502@gmail.com	
