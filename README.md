@@ -117,7 +117,7 @@
 - [한이음 ICT 주차의 달인 논문.pdf](https://github.com/user-attachments/files/26230588/ICT.pdf)
 - [발명제안서.pdf](https://github.com/user-attachments/files/26230788/default.pdf)
 - [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기.pptx](https://github.com/user-attachments/files/26230478/Reflector.Array.5G._.pptx)
-- [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기-압축됨.pdf](https://github.com/user-attachments/files/26230574/Reflector.Array.5G._.-.pdf)
+- [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기.pdf](https://github.com/user-attachments/files/26230574/Reflector.Array.5G._.-.pdf)
 - [TechWays 활동 수기_강도현.pdf](https://github.com/user-attachments/files/18501943/_._.pdf)
 - [일학습병행 종합보고서_강도현.pdf](https://github.com/user-attachments/files/18502016/_.pdf)
 
