@@ -90,7 +90,7 @@
   - Awarded for excellence in the Industry-Academia Capstone Design competition for the project "Safety Helmet with Communication Function for Accident Prevention".
   - [산학 캡스톤 디자인 경진대회 은상](https://github.com/user-attachments/assets/767de768-612e-42a1-b81d-02c272f1bac8)
 - **2024 한이음 ICT 멘토링 공모전 입선** (Korea Information Industry Association, Dec 2024)
-  - The project "Smart Parking System for Villa with Small Parking Spaces" was awarded in recognition of its excellence in the 2024 Han-eum ICT mentoring.
+  - The project "Smart Parking System for Villa with Small Parking Spaces" was accepted in the 2024 Han-eum ICT mentoring.
   - [한이음 ict 멘토링 입선](https://github.com/user-attachments/assets/764f76f7-8bba-4044-87d1-018d43c4c133)
 - **ICT 멘토링 학술대회 [ACK 2024] 논문 우수상** (Korea Information Processing Association, Nov 2024)
   - The "Smart Parking System for Villas with Small Parking Spaces" project was awarded in recognition of the excellence of the ACK Academic Conference in 2024.
