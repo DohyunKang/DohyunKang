@@ -111,8 +111,15 @@
 - I also have interest in Be & Fe programming & AI.
 ### 📝 Portfolio
 - [GitHub](https://github.com/DohyunKang)
+- [산학 캡스톤디자인_TeamKahng_최종보고서(2023).pdf](https://github.com/user-attachments/files/26230734/_TeamKahng_.2023.pdf)
+- [24년_SW개발_HW제작설계서_응용소프트웨어(개인정보 기재x)_스마트파킹 팀.pptx](https://github.com/user-attachments/files/26230737/24._SW._HW._.x._.1.pptx)
+- [TEAM_주차의 달인_2024년 한이음 ICT멘토링 프로젝트 수행계획서.pdf](https://github.com/user-attachments/files/26230765/TEAM_._2024.ICT.pdf)
+- [한이음 ICT 주차의 달인 논문.pdf](https://github.com/user-attachments/files/26230588/ICT.pdf)
+- [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기.pptx](https://github.com/user-attachments/files/26230478/Reflector.Array.5G._.pptx)
+- [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기-압축됨.pdf](https://github.com/user-attachments/files/26230574/Reflector.Array.5G._.-.pdf)
 - [TechWays 활동 수기_강도현.pdf](https://github.com/user-attachments/files/18501943/_._.pdf)
 - [일학습병행 종합보고서_강도현.pdf](https://github.com/user-attachments/files/18502016/_.pdf)
+
 
 I will continue to update my GitHub profile and portfolio with new projects and skills. Thank you for visiting!
 
