@@ -112,7 +112,7 @@
 ### 📝 Portfolio
 - [GitHub](https://github.com/DohyunKang)
 - [산학 캡스톤디자인_TeamKahng_최종보고서(2023).pdf](https://github.com/user-attachments/files/26230734/_TeamKahng_.2023.pdf)
-- [24년_SW개발_HW제작설계서_응용소프트웨어(개인정보 기재x)_스마트파킹 팀.pptx](https://github.com/user-attachments/files/26230737/24._SW._HW._.x._.1.pptx)
+- [24년_SW개발_HW제작설계서_응용소프트웨어_스마트파킹 팀.pptx](https://github.com/user-attachments/files/26230737/24._SW._HW._.x._.1.pptx)
 - [TEAM_주차의 달인_2024년 한이음 ICT멘토링 프로젝트 수행계획서.pdf](https://github.com/user-attachments/files/26230765/TEAM_._2024.ICT.pdf)
 - [한이음 ICT 주차의 달인 논문.pdf](https://github.com/user-attachments/files/26230588/ICT.pdf)
 - [발명제안서.pdf](https://github.com/user-attachments/files/26230788/default.pdf)
