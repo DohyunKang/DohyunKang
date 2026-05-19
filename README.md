@@ -119,7 +119,8 @@
 - [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기.pdf](https://github.com/user-attachments/files/26230574/Reflector.Array.5G._.-.pdf)
 - [TechWays 활동 수기_강도현.pdf](https://github.com/user-attachments/files/18501943/_._.pdf)
 - [일학습병행 종합보고서_강도현.pdf](https://github.com/user-attachments/files/18502016/_.pdf)
-
+- [履歴書_姜度賢.pdf](https://github.com/user-attachments/files/27978843/_.pdf)
+  
 I will continue to update my GitHub profile and portfolio with new projects and skills. Thank you for visiting!
 
 ---
