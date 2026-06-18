@@ -5,7 +5,6 @@
 
 ### 💡 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh708502)](https://solved.ac/kdh708502/) 
-[![Mazandi](https://mazandi.herokuapp.com/api?handle=kdh708502&service=solvedac)](https://solved.ac/profile/kdh708502)
 
 ### 💡 Solved.ac & Gihub stat
 ![Dohyun's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=DohyunKang&show_icons=true&count_private=true&v=1.1)
@@ -119,7 +118,14 @@
 - [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기.pdf](https://github.com/user-attachments/files/26230574/Reflector.Array.5G._.-.pdf)
 - [TechWays 활동 수기_강도현.pdf](https://github.com/user-attachments/files/18501943/_._.pdf)
 - [일학습병행 종합보고서_강도현.pdf](https://github.com/user-attachments/files/18502016/_.pdf)
-- [履歴書_姜度賢.pdf](https://github.com/user-attachments/files/27978843/_.pdf)
+- [履歴書_自己紹介_PR_添付資料含む.pdf](https://github.com/user-attachments/files/29079458/_._PR_.pdf)
+- [capstone_helmet_JP_full.pdf](https://github.com/user-attachments/files/29079632/capstone_helmet_JP_full.pdf)
+- [parking_paper_GPR_JP.pdf](https://github.com/user-attachments/files/29079811/parking_paper_GPR_JP.pdf)
+- [手記公募_情報通信工学科_カンドヒョン_日本語.pdf](https://github.com/user-attachments/files/29079613/_._._.pdf)
+- [SmartParking_JP_v2.pdf](https://github.com/user-attachments/files/29079570/SmartParking_JP_v2.pdf)
+- [smartparking_GPR_JP.pdf](https://github.com/user-attachments/files/29079543/smartparking_GPR_JP.pdf)
+
+
   
 I will continue to update my GitHub profile and portfolio with new projects and skills. Thank you for visiting!
 
