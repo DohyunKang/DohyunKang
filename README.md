@@ -3,9 +3,10 @@
 ### 📊 Percentage of computer language use
 [![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=DohyunKang&layout=compact&v=1.1)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔭 I'm currently working on ...
-- I work at Allie Research Inc., planning and developing AI agents, messenger app features, and web experiences.
-- I combine hands-on coding with AI-assisted development to turn product ideas into working features.
+### 🔭 I'm currently working on Allie Research Inc.
+- I plan and develop AI agent and messenger app features.
+- I design and develop UIs and homepages.
+- I fine-tune AI models, and combine hands-on coding with AI-assisted development to turn product ideas into working features.
 
 ### 🌱 I'm currently learning & interested in ...
 
