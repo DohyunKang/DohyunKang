@@ -1,21 +1,16 @@
 # Welcome to my GitHub profile. 👋
 
-
 ### 📊 Percentage of computer language use
 [![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=DohyunKang&layout=compact&v=1.1)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 🔭 I'm currently working on <img width="15" height="15" alt="Allie Research Inc." src="https://github.com/user-attachments/assets/490eecf6-9b71-4e0f-afb2-67ba330a0660"> Allie Research Inc.
 - I plan and develop AI agent and messenger app features.
 - I design and develop UIs and homepages.
 - I fine-tune AI models, and combine hands-on coding with AI-assisted development to turn product ideas into working features.
 
-
 ### 🌱 I'm currently learning & interested in ...
 
-
 **Languages & web development**
-
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,17 +20,13 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-
 **AI & model fine-tuning**
-
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-
 **Data & development tools**
-
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,22 +34,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-
 - AI product planning, prompt engineering, and AI-assisted coding.
 - LLM-powered agents, tool calling, and evaluating AI outputs.
 - UI design and full-stack development for messenger apps and websites.
 - AI model fine-tuning with Python, PyTorch, and Hugging Face.
 
-
 ### 💼 Experience
-
 
 #### Product Planning & Development at <img width="15" height="15" alt="Allie Research Inc." src="https://github.com/user-attachments/assets/490eecf6-9b71-4e0f-afb2-67ba330a0660"> Allie Research Inc. (Aug 2026 - Present)
 - Plan features for AI agents and messenger applications.
 - Design and develop user interfaces and company websites.
 - Work on AI model fine-tuning.
 - Use AI-assisted coding alongside hands-on development to improve productivity.
-
 
 #### Undergraduate Researcher at High-frequency antenna design lab. (Sep 2022 - Dec 2023)
 - Collaborated with the Agricultural and Rural Development Administration and Andong National University on a beehive IoT system.
@@ -67,17 +54,100 @@
 - Designed antennas using CST and performed PCB soldering.
 - Conducted experiments using signal generators, VNAs, and spectrum analyzers.
 
-
 #### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8a001b3e-9368-4d71-a37b-ad38ae44debf"> 한국알프스 (Jan 2024 - Feb 2024)
 - Conducted simulation and verification of vehicle switch products using CAN communication.
 - Analyzed CAN signal data with CANoe software and VT systems for automation scenarios.
 - Gained practical experience in the automotive industry's communication protocols and diagnostic processes.
 
-
 #### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈 (Aug 2024 - Feb 2025)
 - Developed autonomous driving verification solutions and vehicle control software using C# and LabView.
-
 
 #### BootCamp at <img width="15" height="15" alt="telechips" src="https://github.com/user-attachments/assets/f38da694-7c2a-4f84-a591-995a3d93ad3a"> 텔레칩스 (Feb 2026 - May 2026)
 - **Low-Level System Development**: Technical training focused on C, C++, and system architecture.
 - **Kernel & Embedded Core**: Studied Linux kernel internals, device drivers, and hardware-level porting.
+- **Project-Driven Learning**: Developed embedded OS solutions and mini-games (Allegro), and performed disassembly analysis for optimization.
+- **Technical Leadership**: Led a bi-weekly study group for code reviews and low-level programming research.
+
+### 🏫 Academic Involvement
+- Programming Academic Club "NULL" (2019 - 2023)
+  - Member of the Programming Academic Club in the Department of Information and Communication Engineering.
+  - Participated in various programming projects and hackathons.
+  - Contributed to club activities by mentoring junior students in programming languages such as C, C++, and Python.
+
+### 🏆 Certifications
+- **기업가정신 교육** (Incheon National University, Oct 2023)
+  - Completed the Entrepreneurial Spirit Education program.
+  - [기업가정신](https://github.com/user-attachments/assets/08e2c556-888d-40f7-aab9-b45e781f2d10)
+- **디지털 3D 프린팅 기초 교육** (Incheon National University, Dec 2023)
+  - Completed the Digital 3D Printing Basic Education program.
+  - Certificate No.: 2023-교내비교과-011974
+  - Issued by: Incheon University Engineering Education Innovation Center【23†source】.
+  - [디지털 3D 프린팅 기초 교육 수료증.pdf](https://github.com/user-attachments/files/26171034/3D.pdf)
+- **차량용 CAN/CAN-FD** (Sungkyunkwan University, Jun 2024)
+  - Completed training in Vehicle CAN/CAN-FD.
+  - Issued by: Sungkyunkwan University Future Automotive Technology Fusion Innovation Talent Development Project Team【23†source】.
+  - [미래형자동차24-40_인천대학교_강도현](https://github.com/user-attachments/assets/306c3f63-9adb-492a-9174-e4dc7ae60890)
+- **차량용 Ethernet** (Sungkyunkwan University, Jun 2024)
+  - Completed training in Vehicle Ethernet.
+  - Issued by: Sungkyunkwan University Future Automotive Technology Fusion Innovation Talent Development Project Team【23†source】.
+  - [미래형자동차24-50_인천대학교_강도현](https://github.com/user-attachments/assets/a345faf5-0d0b-4cd9-9bf0-36ead058efb1)
+
+### 🥇 Awards
+- **산학 캡스톤디자인 은상** (Incheon National University, Jul 2023)
+  - Awarded for excellence in the Industry-Academia Capstone Design competition for the project "Safety Helmet with Communication Function for Accident Prevention".
+  - [산학 캡스톤 디자인 경진대회 은상](https://github.com/user-attachments/assets/767de768-612e-42a1-b81d-02c272f1bac8)
+- **2024 한이음 ICT 멘토링 공모전 입선** (Korea Information Industry Association, Dec 2024)
+  - The project "Smart Parking System for Villa with Small Parking Spaces" was accepted in the 2024 Han-eum ICT mentoring.
+  - [한이음 ict 멘토링 입선](https://github.com/user-attachments/assets/764f76f7-8bba-4044-87d1-018d43c4c133)
+- **ICT 멘토링 학술대회 [ACK 2024] 논문 우수상** (Korea Information Processing Association, Nov 2024)
+  - The "Smart Parking System for Villas with Small Parking Spaces" project was awarded in recognition of the excellence of the ACK Academic Conference in 2024.
+  - [ICT 멘토링 ACK 학술대회 우수상](https://github.com/user-attachments/assets/e9cdf6bc-03d3-4ed6-bbcf-18a28b3648df)
+- **2024 현장교육실습 수기공모전 최우수상** (Incheon National University Field Practice Support Center, Feb 2025)
+  - Awarded the highest honor in the 2024 Field Education Practice Essay Contest hosted by the Incheon National University Field Practice Support Center, for the essay “Designing My Dream in the Field: A First Step Toward Becoming an Embedded Engineer”, based on internship experience at Techways.
+  - [현장실습 수기공모전 최우수상](https://github.com/user-attachments/assets/e949725d-57f4-47b2-b32e-18156a91c36c)
+
+### 📫 How to reach me:
+- **Email**: gulpo1@naver.com / kid708502@gmail.com	
+- **LinkedIn**: [linkedin.com/in/kangdohyun](https://www.linkedin.com/in/dohyun-kang-5a97933a5/)
+
+### ⚡ Fun fact:
+- I have a keen interest in autonomous driving technology and aim to contribute to the development of smart mobility solutions.
+- I'm interested in vehicle electrical field embeddings and firmware.
+- I also have interest in Be & Fe programming & AI.
+### 📝 Portfolio & Data
+
+#### Resume
+- [Dohyun_Kang_Resume.pdf](https://github.com/user-attachments/files/26582621/Dohyun_Kang_Resume.pdf)
+
+#### Smart Parking System
+- [24년_SW개발_HW제작설계서_응용소프트웨어_스마트파킹 팀.pptx](https://github.com/user-attachments/files/26230737/24._SW._HW._.x._.1.pptx)
+- [TEAM_주차의 달인_2024년 한이음 ICT멘토링 프로젝트 수행계획서.pdf](https://github.com/user-attachments/files/26230765/TEAM_._2024.ICT.pdf)
+- [한이음 ICT 주차의 달인 논문.pdf](https://github.com/user-attachments/files/26230588/ICT.pdf)
+
+#### Safety Helmet Project
+- [산학 캡스톤디자인_TeamKahng_최종보고서(2023).pdf](https://github.com/user-attachments/files/26230734/_TeamKahng_.2023.pdf)
+
+#### Antenna & RF Research
+- [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기.pptx](https://github.com/user-attachments/files/26230478/Reflector.Array.5G._.pptx)
+- [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기.pdf](https://github.com/user-attachments/files/26230574/Reflector.Array.5G._.-.pdf)
+
+#### Work Experience & Supporting Documents
+- [TechWays 활동 수기_강도현.pdf](https://github.com/user-attachments/files/18501943/_._.pdf)
+- [일학습병행 종합보고서_강도현.pdf](https://github.com/user-attachments/files/18502016/_.pdf)
+
+- [발명제안서.pdf](https://github.com/user-attachments/files/26230788/default.pdf)
+
+#### Japanese-language Documents
+- [履歴書_自己紹介_PR_添付資料含む.pdf](https://github.com/user-attachments/files/29079458/_._PR_.pdf)
+- [capstone_helmet_JP_full.pdf](https://github.com/user-attachments/files/29079632/capstone_helmet_JP_full.pdf)
+- [parking_paper_GPR_JP.pdf](https://github.com/user-attachments/files/29079811/parking_paper_GPR_JP.pdf)
+- [手記公募_情報通信工学科_カンドヒョン_日本語.pdf](https://github.com/user-attachments/files/29079613/_._._.pdf)
+- [SmartParking_JP_v2.pdf](https://github.com/user-attachments/files/29079570/SmartParking_JP_v2.pdf)
+- [smartparking_GPR_JP.pdf](https://github.com/user-attachments/files/29079543/smartparking_GPR_JP.pdf)
+
+I will continue to update my GitHub profile and portfolio with new projects and skills. Thank you for visiting!
+
+---
+
+References:
+-
