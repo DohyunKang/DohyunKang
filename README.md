@@ -41,7 +41,7 @@
 
 ### 💼 Experience
 
-#### Product Planning & Development at Allie Research Inc. (Aug 2026 - Present)
+#### Product Planning & Development at <img width="15" height="15" alt="Allie Research Inc." src="https://github.com/user-attachments/assets/490eecf6-9b71-4e0f-afb2-67ba330a0660"> Allie Research Inc. (Aug 2026 - Present)
 - Plan features for AI agents and messenger applications.
 - Design and develop user interfaces and company websites.
 - Work on AI model fine-tuning.
