@@ -1,38 +1,50 @@
-# Welcome to my Github hompage. 👋
+# Welcome to my GitHub profile. 👋
 
 ### 📊 Percentage of computer language use
 [![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=DohyunKang&layout=compact&v=1.1)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔭 I’m currently working on ...
-- 
+### 🔭 I'm currently working on ...
+- I work at Allie Research Inc., planning and developing AI agents, messenger app features, and web experiences.
+- I combine hands-on coding with AI-assisted development to turn product ideas into working features.
 
-### 🌱 I’m currently learning & interested in ... 
+### 🌱 I'm currently learning & interested in ...
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+**Languages & web development**
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+**AI & model fine-tuning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+**Data & development tools**
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-- Control and ECU-related coding technology for automotive applications.
-- Advanced techniques in CAN/CAN-FD and Ethernet communication for automotive applications.
-- Web site programming and application programming
-- Digital 3D printing fundamentals and applications in engineering.
-- c, c++(Arduino),c#, python(django), javascripts(react, node js), html, css, Sqlite, MySQl, mongoDB
+- AI product planning, prompt engineering, and AI-assisted coding.
+- LLM-powered agents, tool calling, and evaluating AI outputs.
+- UI design and full-stack development for messenger apps and websites.
+- AI model fine-tuning with Python, PyTorch, and Hugging Face.
 
 ### 💼 Experience
+
+#### Product Planning & Development at Allie Research Inc. (Aug 2026 - Present)
+- Plan features for AI agents and messenger applications.
+- Design and develop user interfaces and company websites.
+- Work on AI model fine-tuning.
+- Use AI-assisted coding alongside hands-on development to improve productivity.
 
 #### Undergraduate Researcher at <img width="15" alt="2" src="https://github.com/user-attachments/assets/fb126461-b453-41ac-9859-c2597d137884"> High-frequency antenna design lab. (Sep 2022 - Dec 2023)
 - Collaborated with the Agricultural and Rural Development Administration and Andong National University on a beehive IoT system.
@@ -49,11 +61,11 @@
 #### Internship at <img width="15" alt="2" src="https://github.com/user-attachments/assets/8dd4ce36-9331-4180-9a5e-2c72685ff0dc"> 테크웨이즈 (Aug 2024 - Feb 2025)
 - Developed autonomous driving verification solutions and vehicle control software using C# and LabView.
 
-#### BootCamp at <img width="15" height="15" alt="telechips" src="https://github.com/user-attachments/assets/f38da694-7c2a-4f84-a591-995a3d93ad3a"> 텔레칩스 (Feb 2026 - Present)
-- **Low-Level System Development**: Intensive 6-month technical training focused on C, C++, and system architecture.
-- **Kernel & Embedded Core**: Deep dive into Linux kernel internals, device drivers, and hardware-level porting.
-- **Project-Driven Learning**: Developing embedded OS solutions, mini-games (Allegro), and performing disassembly analysis for optimization.
-- **Technical Leadership**: Leading a bi-weekly study group for code reviews and low-level programming research.
+#### BootCamp at <img width="15" height="15" alt="telechips" src="https://github.com/user-attachments/assets/f38da694-7c2a-4f84-a591-995a3d93ad3a"> 텔레칩스 (Feb 2026 - May 2026)
+- **Low-Level System Development**: Technical training focused on C, C++, and system architecture.
+- **Kernel & Embedded Core**: Studied Linux kernel internals, device drivers, and hardware-level porting.
+- **Project-Driven Learning**: Developed embedded OS solutions and mini-games (Allegro), and performed disassembly analysis for optimization.
+- **Technical Leadership**: Led a bi-weekly study group for code reviews and low-level programming research.
 
 ### 🏫 Academic Involvement
 - Programming Academic Club "NULL" (2019 - 2023)
@@ -102,16 +114,29 @@
 - I'm interested in vehicle electrical field embeddings and firmware.
 - I also have interest in Be & Fe programming & AI.
 ### 📝 Portfolio & Data
+
+#### Resume
 - [Dohyun_Kang_Resume.pdf](https://github.com/user-attachments/files/26582621/Dohyun_Kang_Resume.pdf)
-- [산학 캡스톤디자인_TeamKahng_최종보고서(2023).pdf](https://github.com/user-attachments/files/26230734/_TeamKahng_.2023.pdf)
+
+#### Smart Parking System
 - [24년_SW개발_HW제작설계서_응용소프트웨어_스마트파킹 팀.pptx](https://github.com/user-attachments/files/26230737/24._SW._HW._.x._.1.pptx)
 - [TEAM_주차의 달인_2024년 한이음 ICT멘토링 프로젝트 수행계획서.pdf](https://github.com/user-attachments/files/26230765/TEAM_._2024.ICT.pdf)
 - [한이음 ICT 주차의 달인 논문.pdf](https://github.com/user-attachments/files/26230588/ICT.pdf)
-- [발명제안서.pdf](https://github.com/user-attachments/files/26230788/default.pdf)
+
+#### Safety Helmet Project
+- [산학 캡스톤디자인_TeamKahng_최종보고서(2023).pdf](https://github.com/user-attachments/files/26230734/_TeamKahng_.2023.pdf)
+
+#### Antenna & RF Research
 - [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기.pptx](https://github.com/user-attachments/files/26230478/Reflector.Array.5G._.pptx)
 - [Reflector Array를 이용한 5G 통신 반사 환경 모델하우스 구축_실기.pdf](https://github.com/user-attachments/files/26230574/Reflector.Array.5G._.-.pdf)
+
+#### Work Experience & Supporting Documents
 - [TechWays 활동 수기_강도현.pdf](https://github.com/user-attachments/files/18501943/_._.pdf)
 - [일학습병행 종합보고서_강도현.pdf](https://github.com/user-attachments/files/18502016/_.pdf)
+
+- [발명제안서.pdf](https://github.com/user-attachments/files/26230788/default.pdf)
+
+#### Japanese-language Documents
 - [履歴書_自己紹介_PR_添付資料含む.pdf](https://github.com/user-attachments/files/29079458/_._PR_.pdf)
 - [capstone_helmet_JP_full.pdf](https://github.com/user-attachments/files/29079632/capstone_helmet_JP_full.pdf)
 - [parking_paper_GPR_JP.pdf](https://github.com/user-attachments/files/29079811/parking_paper_GPR_JP.pdf)
@@ -119,8 +144,6 @@
 - [SmartParking_JP_v2.pdf](https://github.com/user-attachments/files/29079570/SmartParking_JP_v2.pdf)
 - [smartparking_GPR_JP.pdf](https://github.com/user-attachments/files/29079543/smartparking_GPR_JP.pdf)
 
-
-  
 I will continue to update my GitHub profile and portfolio with new projects and skills. Thank you for visiting!
 
 ---
