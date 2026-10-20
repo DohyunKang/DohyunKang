@@ -2,9 +2,11 @@
 
 # 안녕하세요, 강도현입니다 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=for-the-badge)](https://dohyunkang.github.io/)
+
 Allie Research Inc. **주니어 PM · AI/AX** — 기획부터 개발까지 맡고 있으며, 임베디드 시스템 경험이 바탕입니다.
 
-- 🧭 제품 기획, 요구사항 정리, 사업·성장 전략
+- 🧭 제품·마케팅 기획, 요구사항 정리, 팀 간 업무 조율
 - 🤖 AI를 활용한 소프트웨어 개발
 - 🔧 임베디드 시스템 — C/C++, 리눅스 커널, CAN
 
@@ -39,13 +41,8 @@ Allie Research Inc. **주니어 PM · AI/AX** — 기획부터 개발까지 맡�
 ### 💼 경력
 
 #### 주니어 PM · AI/AX · Allie Research Inc. (2026.08 – 현재)
-- 제품 기획 및 요구사항 정리
-- 사업·성장 전략 수립
-- AI 코딩을 활용한 기능 개발
-- 메신저 앱 기능 개발
-- 사내 업무 자동화 개발
-- AI 모델 파인튜닝
-- 팀 간 업무 조율
+- **기획** — 제품 기획 · 마케팅 기획 · 팀 간 업무 조율
+- **개발** — 메신저 앱 개발 · AI 모델 파인튜닝 · 사내 시스템 자동화
 
 #### 부트캠프 · <img width="15" height="15" alt="Telechips" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/logos/telechips.png"> 텔레칩스 Telechips (2026.02 – 2026.05)
 - C/C++, 시스템 아키텍처, 리눅스 커널 내부 구조, 디바이스 드라이버, 하드웨어 포팅

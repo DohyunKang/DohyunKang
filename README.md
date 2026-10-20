@@ -2,9 +2,11 @@
 
 # Hi, I'm Dohyun Kang 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=for-the-badge)](https://dohyunkang.github.io/en.html)
+
 **Junior PM · AI/AX** at Allie Research Inc. — from planning to development, with a background in embedded systems.
 
-- 🧭 Product planning, requirements and business & growth strategy
+- 🧭 Product & marketing planning, requirements, cross-team coordination
 - 🤖 AI-assisted software development
 - 🔧 Embedded systems — C/C++, Linux kernel, CAN
 
@@ -39,13 +41,8 @@
 ### 💼 Experience
 
 #### Junior PM · AI/AX · Allie Research Inc. (Aug 2026 – Present)
-- Plan products and write requirements.
-- Shape business and growth strategy.
-- Develop features with AI-assisted coding.
-- Develop messenger app features.
-- Build internal workflow automation.
-- Fine-tune AI models.
-- Coordinate work across teams.
+- **Planning** — Product planning · Marketing planning · Cross-team coordination
+- **Building** — Messenger app development · AI model fine-tuning · Internal system automation
 
 #### BootCamp · <img width="15" height="15" alt="Telechips" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/logos/telechips.png"> 텔레칩스 (Feb 2026 – May 2026)
 - C/C++, system architecture, Linux kernel internals, device drivers and hardware porting.

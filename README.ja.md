@@ -2,9 +2,11 @@
 
 # こんにちは、カン・ドヒョンです 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=for-the-badge)](https://dohyunkang.github.io/ja.html)
+
 Allie Research Inc. **ジュニアPM · AI/AX** — 企画から開発まで担当しています。組み込みシステムの経験がベースです。
 
-- 🧭 プロダクト企画、要件定義、事業・成長戦略
+- 🧭 プロダクト・マーケティング企画、要件定義、チーム間の業務調整
 - 🤖 AIを活用したソフトウェア開発
 - 🔧 組み込みシステム — C/C++、Linuxカーネル、CAN
 
@@ -39,13 +41,8 @@ Allie Research Inc. **ジュニアPM · AI/AX** — 企画から開発まで担�
 ### 💼 職歴
 
 #### ジュニアPM · AI/AX · Allie Research Inc. (2026.08 – 現在)
-- プロダクト企画・要件定義
-- 事業・成長戦略の立案
-- AIコーディングを活用した機能開発
-- メッセンジャーアプリの機能開発
-- 社内業務の自動化開発
-- AIモデルのファインチューニング
-- チーム間の業務調整
+- **企画** — プロダクト企画 · マーケティング企画 · チーム間の業務調整
+- **開発** — メッセンジャーアプリ開発 · AIモデルのファインチューニング · 社内システムの自動化
 
 #### ブートキャンプ · <img width="15" height="15" alt="Telechips" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/logos/telechips.png"> 텔레칩스 Telechips (2026.02 – 2026.05)
 - C/C++、システムアーキテクチャ、Linuxカーネル内部、デバイスドライバ、ハードウェア移植

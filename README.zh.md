@@ -2,9 +2,11 @@
 
 # 你好，我是姜度贤 (Dohyun Kang) 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=for-the-badge)](https://dohyunkang.github.io/zh.html)
+
 Allie Research Inc. **初级产品经理 · AI/AX** — 负责从策划到开发，具备嵌入式系统背景。
 
-- 🧭 产品策划、需求整理、业务与增长战略
+- 🧭 产品与营销策划、需求整理、跨团队协调
 - 🤖 AI 辅助的软件开发
 - 🔧 嵌入式系统 — C/C++、Linux 内核、CAN
 
@@ -39,13 +41,8 @@ Allie Research Inc. **初级产品经理 · AI/AX** — 负责从策划到开发
 ### 💼 经历
 
 #### 初级产品经理 · AI/AX · Allie Research Inc. (2026.08 – 至今)
-- 产品策划与需求整理
-- 制定业务与增长战略
-- 使用 AI 辅助编程开发功能
-- 开发即时通讯应用功能
-- 开发内部业务自动化
-- AI 模型微调
-- 跨团队工作协调
+- **策划** — 产品策划 · 营销策划 · 跨团队协调
+- **开发** — 即时通讯应用开发 · AI 模型微调 · 内部系统自动化
 
 #### 训练营 · <img width="15" height="15" alt="Telechips" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/logos/telechips.png"> 텔레칩스 Telechips (2026.02 – 2026.05)
 - C/C++、系统架构、Linux 内核原理、设备驱动与硬件移植
