@@ -152,11 +152,11 @@
 <details>
 <summary>📝 Portfolio & documents</summary>
 
-**Resume** — [Dohyun_Kang_Resume.pdf](https://github.com/user-attachments/files/26582621/Dohyun_Kang_Resume.pdf)
+**Resume** — [Dohyun_Kang_Resume.pdf](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/resume-en.pdf)
 
 **Transcript** — [Transcript](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/transcript.jpg) (GPA 3.93 / 4.5)
 
-**Smart Parking System** — [design doc (pptx)](https://github.com/user-attachments/files/26230737/24._SW._HW._.x._.1.pptx) · [project plan](https://github.com/user-attachments/files/26230765/TEAM_._2024.ICT.pdf) · [paper](https://github.com/user-attachments/files/26230588/ICT.pdf)
+**Smart Parking System** — [design doc (pptx)](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/smartparking-design.pdf) · [project plan](https://github.com/user-attachments/files/26230765/TEAM_._2024.ICT.pdf) · [paper](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/parking-paper.pdf)
 
 **Safety Helmet** — [final report](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/safety-helmet-final-report.pdf)
 
@@ -164,7 +164,7 @@
 
 **Work experience** — [TechWays essay](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/techways-essay.pdf) · [work-study report](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/work-study-report.pdf) · [invention proposal](https://github.com/user-attachments/files/26230788/default.pdf)
 
-**日本語** — [履歴書・自己PR](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/rirekisho-ja.pdf) · [Capstone helmet](https://github.com/user-attachments/files/29079632/capstone_helmet_JP_full.pdf) · [Parking paper](https://github.com/user-attachments/files/29079811/parking_paper_GPR_JP.pdf) · [手記](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/techways-essay-ja.pdf) · [SmartParking v2](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/smartparking-ja.pdf) · [SmartParking GPR](https://github.com/user-attachments/files/29079543/smartparking_GPR_JP.pdf)
+**日本語** — [履歴書・自己PR](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/rirekisho-ja.pdf) · [Capstone helmet](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/capstone-helmet-ja.pdf) · [Parking paper](https://github.com/user-attachments/files/29079811/parking_paper_GPR_JP.pdf) · [手記](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/techways-essay-ja.pdf) · [SmartParking v2](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/smartparking-ja.pdf) · [SmartParking GPR](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/smartparking-design-ja.pdf)
 
 </details>
 
