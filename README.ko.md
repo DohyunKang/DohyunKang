@@ -85,9 +85,9 @@
 - CST 안테나 설계, PCB 납땜, 신호 발생기·VNA·스펙트럼 분석기 실험
 
 ### 🥇 수상
-- **2024 현장교육실습 수기공모전 최우수상** — Incheon National University (Feb 2025) · [수기](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/techways-essay.pdf)
+- **2024 현장교육실습 수기공모전 최우수상** — Incheon National University (Feb 2025) · [수기](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/techways-essay.pdf) · [상장](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/essay-grand-prize.jpg)
 - **ICT 멘토링 학술대회 [ACK 2024] 논문 우수상** — KIPS (Nov 2024), "Smart Parking System for Villas with Small Parking Spaces" · [증명서](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/ack2024-excellence.jpg)
-- **2024 한이음 ICT 멘토링 공모전 입선** — KAIT (Dec 2024)
+- **2024 한이음 ICT 멘토링 공모전 입선** — KAIT (Dec 2024) · [확인서](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/hanium-award.jpg) · [수행 확인서](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/hanium-done.jpg)
 - **산학 캡스톤디자인 은상** — Incheon National University (Jul 2023), "Safety Helmet with Communication Function" · [증명서](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/capstone-silver-2023.jpg)
 
 <details>
@@ -105,6 +105,8 @@
 <summary>📝 포트폴리오 & 문서</summary>
 
 **이력서** — [Dohyun_Kang_Resume.pdf](https://github.com/user-attachments/files/26582621/Dohyun_Kang_Resume.pdf)
+
+**성적증명서** — [성적증명서](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/transcript.jpg) (GPA 3.93 / 4.5)
 
 **Smart Parking System** — [design doc (pptx)](https://github.com/user-attachments/files/26230737/24._SW._HW._.x._.1.pptx) · [project plan](https://github.com/user-attachments/files/26230765/TEAM_._2024.ICT.pdf) · [paper](https://github.com/user-attachments/files/26230588/ICT.pdf)
 
