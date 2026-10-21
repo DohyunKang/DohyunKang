@@ -8,6 +8,8 @@
 
 <h3 align="center">亲手开发、亲身实践，<br>走在 PM 的路上</h3>
 
+<p align="center">🟢 <sub><b>现就职于</b></sub>&nbsp; <b>Allie Research Inc.</b> · Junior PM · AI/AX</p>
+
 <p align="center">
 <a href="https://dohyunkang.github.io/zh.html"><img src="https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=flat-square" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/dohyun-kang-5a97933a5/"><img src="https://img.shields.io/badge/LinkedIn-Dohyun_Kang-0A66C2?style=flat-square" alt="LinkedIn"></a>
@@ -34,10 +36,22 @@
 <tr><td><sub><b>用过</b></sub></td><td><img src="https://img.shields.io/badge/LabVIEW-FFC20E?style=flat-square" alt="LabVIEW"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square" alt="AWS EC2"></td></tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/langs-light.svg">
+  <img alt="Languages" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/langs-light.svg" width="100%">
+</picture>
+<sub>基于我全部仓库的代码 · 2026.10</sub>
+
+
 ### 🗂️ Work
 *从问题到结果* · [查看详情 →](https://dohyunkang.github.io/zh.html#work)
 
 <table>
+<tr>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-messaging.png" alt="即时通讯应用开发" width="100%"><br><b>即时通讯应用开发</b> <code>保密</code><br><sub>2026.08 – 至今 · Allie Research</sub><br>正在开发即时通讯应用的功能。具体内容保密。</td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-automating.png" alt="内部系统自动化" width="100%"><br><b>内部系统自动化</b> <code>保密</code><br><sub>2026.08 – 至今 · Allie Research</sub><br>正在打造减少重复性内部工作的系统。具体内容保密。</td>
+</tr>
 <tr>
 <td width="50%" valign="top"><a href="https://dohyunkang.github.io/zh.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-test.png" alt="测量·诊断自动化工具" width="100%"></a><br><b>测量·诊断自动化工具</b> <code>现场实习</code><br><sub>2024.08 – 2025.02 · Techways</sub><br>把手动逐个操作设备、逐项确认诊断的工作，改成了工具。<br>🏆 <sub>现场实习心得征文大赛 最优秀奖</sub></td>
 <td width="50%" valign="top"><a href="https://dohyunkang.github.io/zh.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-parking.jpg" alt="别墅停车管理应用" width="100%"></a><br><b>别墅停车管理应用</b> <code>Team · 组长</code><br><sub>2024.04 – 10 · 4人团队</sub><br>通过车牌识别与出库时间预测，减轻了双排停车的困扰。<br>🏆 <sub>ACK 2024 论文优秀奖 · Hanium 竞赛入选</sub></td>

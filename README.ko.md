@@ -8,6 +8,8 @@
 
 <h3 align="center">직접 개발하고 경험하며<br>PM의 길을 걷고 있습니다</h3>
 
+<p align="center">🟢 <sub><b>지금 일하는 곳</b></sub>&nbsp; <b>Allie Research Inc.</b> · Junior PM · AI/AX</p>
+
 <p align="center">
 <a href="https://dohyunkang.github.io/"><img src="https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=flat-square" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/dohyun-kang-5a97933a5/"><img src="https://img.shields.io/badge/LinkedIn-Dohyun_Kang-0A66C2?style=flat-square" alt="LinkedIn"></a>
@@ -34,10 +36,22 @@
 <tr><td><sub><b>써 봤어요</b></sub></td><td><img src="https://img.shields.io/badge/LabVIEW-FFC20E?style=flat-square" alt="LabVIEW"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square" alt="AWS EC2"></td></tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/langs-light.svg">
+  <img alt="Languages" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/langs-light.svg" width="100%">
+</picture>
+<sub>내 저장소 전체 코드 기준 · 2026.10</sub>
+
+
 ### 🗂️ Work
 *문제에서 결과까지* · [자세히 보기 →](https://dohyunkang.github.io/#work)
 
 <table>
+<tr>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-messaging.png" alt="메신저 앱 개발" width="100%"><br><b>메신저 앱 개발</b> <code>대외비</code><br><sub>2026.08 – 현재 · Allie Research</sub><br>메신저 앱의 기능을 개발하고 있습니다. 세부 내용은 대외비입니다.</td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-automating.png" alt="사내 시스템 자동화" width="100%"><br><b>사내 시스템 자동화</b> <code>대외비</code><br><sub>2026.08 – 현재 · Allie Research</sub><br>반복되는 사내 업무를 줄이는 시스템을 만들고 있습니다. 세부 내용은 대외비입니다.</td>
+</tr>
 <tr>
 <td width="50%" valign="top"><a href="https://dohyunkang.github.io/#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-test.png" alt="계측·진단 자동화 도구" width="100%"></a><br><b>계측·진단 자동화 도구</b> <code>현장실습</code><br><sub>2024.08 – 2025.02 · Techways</sub><br>손으로 하나씩 하던 장비 조작과 진단 확인을 도구로 바꿨습니다.<br>🏆 <sub>현장실습 수기공모전 최우수상</sub></td>
 <td width="50%" valign="top"><a href="https://dohyunkang.github.io/#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-parking.jpg" alt="빌라 주차 관리 앱" width="100%"></a><br><b>빌라 주차 관리 앱</b> <code>Team · 팀장</code><br><sub>2024.04 – 10 · 4인 팀</sub><br>번호판 인식과 출차 시간 예측으로 이중 주차 불편을 줄였습니다.<br>🏆 <sub>ACK 2024 논문 우수상 · 한이음 공모전 입선</sub></td>

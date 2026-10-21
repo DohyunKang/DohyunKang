@@ -8,6 +8,8 @@
 
 <h3 align="center">Building things myself,<br>on my way to becoming a PM</h3>
 
+<p align="center">🟢 <sub><b>Now at</b></sub>&nbsp; <b>Allie Research Inc.</b> · Junior PM · AI/AX</p>
+
 <p align="center">
 <a href="https://dohyunkang.github.io/en.html"><img src="https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=flat-square" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/dohyun-kang-5a97933a5/"><img src="https://img.shields.io/badge/LinkedIn-Dohyun_Kang-0A66C2?style=flat-square" alt="LinkedIn"></a>
@@ -34,10 +36,22 @@
 <tr><td><sub><b>Have used</b></sub></td><td><img src="https://img.shields.io/badge/LabVIEW-FFC20E?style=flat-square" alt="LabVIEW"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square" alt="AWS EC2"></td></tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/langs-light.svg">
+  <img alt="Languages" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/langs-light.svg" width="100%">
+</picture>
+<sub>Across all my repositories · Oct 2026</sub>
+
+
 ### 🗂️ Work
 *From problem to result* · [View details →](https://dohyunkang.github.io/en.html#work)
 
 <table>
+<tr>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-messaging.png" alt="Messenger App Development" width="100%"><br><b>Messenger App Development</b> <code>Confidential</code><br><sub>2026.08 – Present · Allie Research</sub><br>Developing features for a messenger app. Details are confidential.</td>
+<td width="50%" valign="top"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-automating.png" alt="Internal System Automation" width="100%"><br><b>Internal System Automation</b> <code>Confidential</code><br><sub>2026.08 – Present · Allie Research</sub><br>Building systems that cut down repetitive internal work. Details are confidential.</td>
+</tr>
 <tr>
 <td width="50%" valign="top"><a href="https://dohyunkang.github.io/en.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-test.png" alt="Measurement &amp; Diagnostics Automation Tool" width="100%"></a><br><b>Measurement &amp; Diagnostics Automation Tool</b> <code>Field Practice</code><br><sub>2024.08 – 2025.02 · Techways</sub><br>I replaced manual equipment operation and diagnostic checks with a tool.<br>🏆 <sub>Grand Prize, Field Practice Essay Contest</sub></td>
 <td width="50%" valign="top"><a href="https://dohyunkang.github.io/en.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-parking.jpg" alt="Villa Parking Management App" width="100%"></a><br><b>Villa Parking Management App</b> <code>Team · Team lead</code><br><sub>2024.04 – 10 · Team of 4</sub><br>License plate recognition and departure-time prediction to ease double-parking trouble.<br>🏆 <sub>ACK 2024 Paper Excellence Award · Hanium Contest Selected</sub></td>
