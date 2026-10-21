@@ -18,7 +18,7 @@
 <table align="center"><tr>
 <td align="center" width="33%"><h3>3.93<sub> / 4.5</sub></h3><sub>총 학점<br>전공 4.05 / 4.5</sub></td>
 <td align="center" width="33%"><h3>4<sub>개</sub></h3><sub>공모전·학술 수상</sub></td>
-<td align="center" width="33%"><h3>6<sub>번</sub></h3><sub>리더 경험<br>팀장 3 · 부트캠프 반장 · 동아리 회장 · 분대장</sub></td>
+<td align="center" width="33%"><h3>7<sub>번</sub></h3><sub>리더 경험<br>팀장 3 · 부트캠프 반장 · 동아리 회장 2 · 분대장</sub></td>
 </tr></table>
 
 ### 🙋 About
@@ -61,6 +61,53 @@
 </tr>
 </table>
 
+<!-- project-details -->
+<details>
+<summary><b>프로젝트 자세히 보기</b></summary>
+
+
+#### 빌라 주차 관리 앱
+
+- **문제** — 빌라 주차장은 **빈자리를 알 수 없고**, 앞차가 언제 나갈지 몰라 차를 빼 달라는 연락이 자주 오갑니다.
+- **한 일** — 4명 팀의 팀장으로 요구사항·화면 설계·ERD를 쓰고, **YOLOv8로 차량을, EasyOCR로 번호판을** 읽어 Django 웹에 칸별 주차 현황과 예상 출차 시간을 보여 줬습니다.
+- **구조** — 카메라 쪽에서 인식한 결과를 서버 API로 보내면 서버가 칸 상태를 갱신하고, 웹이 현황·출차 시간·게시판을 보여 줍니다. 축소 모형 주차장으로 시연했습니다.
+- **결과** — **ACK 2024 논문 우수상**과 **한이음 ICT 멘토링 공모전 입선**.
+- **이어서** — 공모전 뒤 혼자 약 5개월 동안 **React로 화면을 새로 만들고** 1.5초마다 자동 갱신되게 했습니다. 출차 예측은 데이터가 적어도 안정적인 **가우시안 프로세스**로 바꾸고, Docker와 GitHub Actions로 배포까지 정리했습니다.
+
+**주요 기능** · 차량 인식 + 번호판 판독, 잘못 읽은 번호는 유사도 매칭으로 보정 · 칸별 주차 현황과 남은 자리 수 · 요일별 출차 시간 등록과 예상 출차 시간 · 거리·습관·옆 차 출차·막힘 위험을 합친 자리 추천 (점수 근거 표시) · 공지·게시판·채팅, 주변 주차장 지도 · 한국어·영어·일본어, 장비 없이 돌려 보는 데모 모드
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-v2.jpg" alt="개선판(v2) 화면 — 추천 자리와 실시간 현황" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-1.jpg" alt="1차 버전 주차 현황 — 칸별 차량 번호와 예상 출차 시간" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-2.jpg" alt="시연용 축소 모형 주차장 카메라 화면" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-3.jpg" alt="요일별 입차·출차 시간 설정 화면" width="32%"></p>
+<sub>Python · Django · DRF · React · Vite · Tailwind CSS · YOLOv8 · EasyOCR · OpenCV · Gaussian Process · Docker · GitHub Actions</sub>
+
+
+#### 통신 기능 안전모
+
+- **문제** — 현장에서 작업자가 쓰러지거나 유해 가스에 노출돼도 **관리자가 바로 알기 어렵습니다.**
+- **한 일** — 안전모에 붙일 지그를 설계하고 센서를 납땜해 회로를 만든 뒤, Arduino(SAMD21) 펌웨어와 **PyQt5 관제 프로그램**을 작성했습니다.
+- **구조** — 안전모가 CO2·TVOC·온습도·기압 값과 상태를 **LoRa**로 보내면, 수신기가 신호 세기(RSSI)를 붙여 PC로 넘기고 관제 화면이 작업자별로 보여 줍니다.
+- **결과** — 2023 인천대 산학 캡스톤디자인 경진대회 **은상**.
+
+**주요 기능** · 가속도 센서로 넘어짐 감지, 10초 동안 움직임이 없으면 사고로 판단 · 사고 시 안전모 부저 경보, 관제 화면은 빨간색으로 · CO2 1000ppm 초과 등 위험 수치 강조 · 최대 6명 동시 모니터링, 신호가 4초 넘게 끊기면 '연결 끊김' 표시 · LoRa 장거리 무선 통신
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/helmet-1.jpg" alt="센서·LoRa 모듈·배터리를 단 안전모 시제품" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/helmet-2.jpg" alt="관제 프로그램 — 작업자 1의 센서 값과 상태(정상)" width="32%"></p>
+<sub>Arduino (SAMD21) · C/C++ · LoRa (RFM95) · LSM6DS3 · CCS811 · BME280 · Python · PyQt5</sub>
+
+
+#### 양봉 IoT
+
+- **배경** — 농촌진흥청 과제로 **안동대학교**와 함께, 벌통 상태를 원격으로 지켜보는 시스템을 만들었습니다.
+- **한 일** — ESP32에 온습도(DHT)·가스(MQ135)·무게(로드셀) 센서를 연결하는 펌웨어와, 데이터를 저장하고 보여 주는 **PHP·MySQL 웹**을 만들었습니다. 연구실에서는 CST 안테나 설계와 VNA·스펙트럼 분석기 측정도 맡았습니다.
+- **구조** — 벌통마다 둔 센서 보드가 **ESP-NOW**로 마스터 보드에 값을 보내고, 마스터가 Wi-Fi로 서버에 올립니다. 전력을 아끼려고 측정 사이에는 딥슬립에 들어갑니다.
+- **결과** — 벌통 3곳과 바깥 환경 데이터를 웹에서 실시간으로 보고, 기간별 그래프와 엑셀 내보내기로 살펴볼 수 있게 했습니다.
+
+**주요 기능** · 벌통별 온도·습도·CO2·무게 측정 · ESP-NOW로 여러 센서 보드 데이터를 한 보드로 모아 전송 · 1분 주기로 MySQL에 저장 · 센서별 데이터 표와 Google Charts 그래프 · 벌 출입 수를 세는 Bee Counter와 벌통 입구 이미지
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/hive-1.jpg" alt="벌통별 센서 현황 화면 (온습도·CO2·무게)" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/hive-2.jpg" alt="센서별 온도·습도 변화 그래프" width="32%"></p>
+<sub>ESP32 · Arduino (C++) · ESP-NOW · DHT · MQ135 · HX711 · PHP · MySQL · Google Charts · CST · VNA</sub>
+
+</details>
+
+
 ---
 
 ### 💼 경력
@@ -97,7 +144,8 @@
 - **차량용 CAN/CAN-FD** — Sungkyunkwan University (Jun 2024) · [증명서](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/automotive-can.jpg)
 - **디지털 3D 프린팅 기초 교육** — Incheon National University (Dec 2023), No. 2023-교내비교과-011974 · [증명서](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/3d-printing-certificate.pdf)
 - **기업가정신 교육** — Incheon National University (Oct 2023) · [증명서](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/entrepreneurship.jpg)
-- 프로그래밍 학술 동아리 **"NULL"** (2019 – 2023) — 프로젝트·해커톤, 후배 대상 C/C++/Python 멘토링
+- 프로그래밍 학술 동아리 **"NULL"** (2019 – 2024 · 2023 회장) — 프로젝트·해커톤, 후배 대상 C/C++/Python 멘토링
+- 대학 풋살 동아리 **"Chaba"** (2023 – 2024) — 회장
 
 </details>
 

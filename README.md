@@ -18,7 +18,7 @@
 <table align="center"><tr>
 <td align="center" width="33%"><h3>3.93<sub> / 4.5</sub></h3><sub>Overall GPA<br>Major 4.05 / 4.5</sub></td>
 <td align="center" width="33%"><h3>4<sub> awards</sub></h3><sub>Contest &amp; academic awards</sub></td>
-<td align="center" width="33%"><h3>6<sub> roles</sub></h3><sub>Leadership experience<br>Team lead ×3 · Bootcamp class lead · Club president · Squad leader</sub></td>
+<td align="center" width="33%"><h3>7<sub> roles</sub></h3><sub>Leadership experience<br>Team lead ×3 · Bootcamp class lead · Club president ×2 · Squad leader</sub></td>
 </tr></table>
 
 ### 🙋 About
@@ -61,6 +61,53 @@
 </tr>
 </table>
 
+<!-- project-details -->
+<details>
+<summary><b>Project details</b></summary>
+
+
+#### Villa Parking Management App
+
+- **Problem** — In small villa parking lots you **can’t see free spots**, and nobody knows when the car in front will leave, so “please move your car” calls are constant.
+- **What I did** — As team lead of four, I wrote the requirements, screen designs and ERD, and used **YOLOv8 for cars and EasyOCR for plates** to show per-spot status and expected departure times on a Django web app.
+- **How it works** — Recognition results go from the camera side to a server API, the server updates each spot, and the web shows status, departure times and a board. We demoed it on a scale-model lot.
+- **Result** — **ACK 2024 Paper Excellence Award** and **Hanium ICT Mentoring Contest, Selected**.
+- **After** — After the contest I spent about five months on my own: **rebuilt the UI in React** with auto-refresh every 1.5 s, switched departure prediction to a **Gaussian Process** that stays stable with little data, and set up Docker and GitHub Actions deployment.
+
+**Key features** · Car detection + plate reading; misreads corrected by similarity matching · Per-spot status and free-spot count · Weekly departure schedule and predicted departure time · Spot recommendation combining distance, habits, neighbor departures and blocking risk (with score breakdown) · Notices, board, chat, nearby parking map · Korean / English / Japanese, demo mode without hardware
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-v2.jpg" alt="Improved version (v2) — recommended spot and live status" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-1.jpg" alt="First version — plate number and expected departure per spot" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-2.jpg" alt="Camera view of the scale-model demo lot" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-3.jpg" alt="Weekly entry/exit time settings" width="32%"></p>
+<sub>Python · Django · DRF · React · Vite · Tailwind CSS · YOLOv8 · EasyOCR · OpenCV · Gaussian Process · Docker · GitHub Actions</sub>
+
+
+#### Smart Safety Helmet
+
+- **Problem** — When a worker falls or is exposed to harmful gas on site, **the manager often can’t tell right away.**
+- **What I did** — I designed the jig that mounts on the helmet, soldered the sensor circuit, and wrote the Arduino (SAMD21) firmware and a **PyQt5 monitoring app**.
+- **How it works** — The helmet sends CO2, TVOC, temperature, humidity, pressure and status over **LoRa**; the receiver adds signal strength (RSSI) and passes it to a PC, where the app shows each worker.
+- **Result** — **Silver Prize**, 2023 INU Industry-Academia Capstone Design Competition.
+
+**Key features** · Fall detection by accelerometer; no movement for 10 s counts as an accident · Buzzer alarm on the helmet; monitoring screen turns red · Dangerous values highlighted (e.g. CO2 over 1000 ppm) · Up to 6 workers at once; “disconnected” after 4 s without signal · Long-range LoRa radio
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/helmet-1.jpg" alt="Helmet prototype with sensors, LoRa module and battery" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/helmet-2.jpg" alt="Monitoring app — worker 1’s sensor values and status (normal)" width="32%"></p>
+<sub>Arduino (SAMD21) · C/C++ · LoRa (RFM95) · LSM6DS3 · CCS811 · BME280 · Python · PyQt5</sub>
+
+
+#### Beekeeping IoT
+
+- **Background** — A Rural Development Administration project with **Andong National University** to watch beehives remotely.
+- **What I did** — I wrote ESP32 firmware for temperature/humidity (DHT), gas (MQ135) and weight (load cell) sensors, and a **PHP + MySQL website** to store and show the data. In the lab I also did CST antenna design and VNA / spectrum analyzer measurements.
+- **How it works** — A sensor board in each hive sends readings to a master board over **ESP-NOW**, and the master uploads them over Wi-Fi. Boards deep-sleep between readings to save power.
+- **Result** — Data from three hives and the outside environment can be watched live on the web, with graphs by period and Excel export.
+
+**Key features** · Temperature, humidity, CO2 and weight per hive · ESP-NOW gathers several sensor boards into one uplink · Saved to MySQL every minute · Per-sensor tables and Google Charts graphs · Bee Counter for in/out counts with hive-entrance images
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/hive-1.jpg" alt="Per-hive sensor dashboard (temp/humidity, CO2, weight)" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/hive-2.jpg" alt="Temperature and humidity graphs per sensor" width="32%"></p>
+<sub>ESP32 · Arduino (C++) · ESP-NOW · DHT · MQ135 · HX711 · PHP · MySQL · Google Charts · CST · VNA</sub>
+
+</details>
+
+
 ---
 
 ### 💼 Experience
@@ -97,7 +144,8 @@
 - **차량용 CAN/CAN-FD** — Sungkyunkwan University (Jun 2024) · [certificate](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/automotive-can.jpg)
 - **디지털 3D 프린팅 기초 교육** — Incheon National University (Dec 2023), No. 2023-교내비교과-011974 · [certificate](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/3d-printing-certificate.pdf)
 - **기업가정신 교육** — Incheon National University (Oct 2023) · [certificate](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/entrepreneurship.jpg)
-- Programming club **"NULL"** (2019 – 2023) — projects, hackathons, mentoring juniors in C, C++ and Python.
+- Programming club **"NULL"** (2019 – 2024 · president in 2023) — projects, hackathons, mentoring juniors in C, C++ and Python.
+- University futsal club **"Chaba"** (2023 – 2024) — president.
 
 </details>
 

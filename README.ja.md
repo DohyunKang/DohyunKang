@@ -18,7 +18,7 @@
 <table align="center"><tr>
 <td align="center" width="33%"><h3>3.93<sub> / 4.5</sub></h3><sub>GPA（全体）<br>専攻 4.05 / 4.5</sub></td>
 <td align="center" width="33%"><h3>4<sub>件</sub></h3><sub>コンテスト・学術での受賞</sub></td>
-<td align="center" width="33%"><h3>6<sub>回</sub></h3><sub>リーダー経験<br>チームリーダー3回 · ブートキャンプのクラス代表 · サークル会長 · 分隊長</sub></td>
+<td align="center" width="33%"><h3>7<sub>回</sub></h3><sub>リーダー経験<br>チームリーダー3回 · ブートキャンプのクラス代表 · サークル会長2回 · 分隊長</sub></td>
 </tr></table>
 
 ### 🙋 About
@@ -61,6 +61,53 @@
 </tr>
 </table>
 
+<!-- project-details -->
+<details>
+<summary><b>プロジェクトの詳細</b></summary>
+
+
+#### ヴィラ向け駐車管理アプリ
+
+- **課題** — 狭いヴィラの駐車場では**空きが分からず**、前の車がいつ出るかも分からないため、「車を動かして」という連絡が絶えません。
+- **やったこと** — 4人チームのリーダーとして要件・画面設計・ERDを書き、**YOLOv8で車両、EasyOCRでナンバー**を読み取って、Djangoのウェブに区画ごとの駐車状況と出庫予測時間を表示しました。
+- **仕組み** — カメラ側の認識結果をサーバーAPIに送ると、サーバーが区画の状態を更新し、ウェブが状況・出庫時間・掲示板を表示します。縮小模型の駐車場でデモしました。
+- **結果** — **ACK 2024 論文優秀賞**、**ハンイウムICTメンタリング公募展 入選**。
+- **その後** — 公募展の後も約5か月、一人で**Reactで画面を作り直し**、1.5秒ごとの自動更新にしました。出庫予測はデータが少なくても安定する**ガウス過程**に変え、DockerとGitHub Actionsでデプロイまで整えました。
+
+**主な機能** · 車両認識＋ナンバー読み取り、誤読は類似度マッチングで補正 · 区画ごとの駐車状況と空き台数 · 曜日ごとの出庫時間登録と出庫予測 · 距離・習慣・隣の車の出庫・ふさがりリスクを合わせた区画おすすめ（スコアの根拠を表示） · お知らせ・掲示板・チャット、周辺駐車場マップ · 韓国語・英語・日本語、機器なしで動かせるデモモード
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-v2.jpg" alt="改善版（v2）— おすすめ区画とリアルタイム状況" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-1.jpg" alt="初期版の駐車状況 — 区画ごとの車両番号と出庫予測時間" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-2.jpg" alt="デモ用縮小模型駐車場のカメラ映像" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-3.jpg" alt="曜日ごとの入庫・出庫時間の設定画面" width="32%"></p>
+<sub>Python · Django · DRF · React · Vite · Tailwind CSS · YOLOv8 · EasyOCR · OpenCV · Gaussian Process · Docker · GitHub Actions</sub>
+
+
+#### 通信機能付きヘルメット
+
+- **課題** — 現場で作業者が倒れたり有害ガスにさらされたりしても、**管理者がすぐに気づきにくい**状況でした。
+- **やったこと** — ヘルメットに取り付ける治具を設計し、センサーをはんだ付けして回路を作り、Arduino（SAMD21）のファームウェアと**PyQt5の監視プログラム**を書きました。
+- **仕組み** — ヘルメットがCO2・TVOC・温湿度・気圧の値と状態を**LoRa**で送ると、受信機が電波強度（RSSI）を付けてPCに渡し、監視画面が作業者ごとに表示します。
+- **結果** — 2023 仁川大学 産学キャップストーンデザイン大会 **銀賞**。
+
+**主な機能** · 加速度センサーで転倒を検知、10秒動きがなければ事故と判断 · 事故時はヘルメットのブザーが鳴り、監視画面が赤に · CO2 1000ppm超など危険な数値を強調 · 最大6人を同時に監視、4秒以上信号が途切れると「接続切れ」表示 · LoRaによる長距離無線通信
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/helmet-1.jpg" alt="センサー・LoRaモジュール・バッテリーを付けたヘルメット試作品" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/helmet-2.jpg" alt="監視プログラム — 作業者1のセンサー値と状態（正常）" width="32%"></p>
+<sub>Arduino (SAMD21) · C/C++ · LoRa (RFM95) · LSM6DS3 · CCS811 · BME280 · Python · PyQt5</sub>
+
+
+#### 養蜂IoT
+
+- **背景** — 農村振興庁の課題として**安東大学**と共に、巣箱の状態を遠隔で見守るシステムを作りました。
+- **やったこと** — ESP32に温湿度（DHT）・ガス（MQ135）・重量（ロードセル）センサーをつなぐファームウェアと、データを保存・表示する**PHP・MySQLのウェブ**を作りました。研究室ではCSTによるアンテナ設計とVNA・スペクトラムアナライザでの測定も担当しました。
+- **仕組み** — 巣箱ごとのセンサーボードが**ESP-NOW**でマスターボードに値を送り、マスターがWi-Fiでサーバーに上げます。省電力のため測定の合間はディープスリープに入ります。
+- **結果** — 巣箱3か所と外部環境のデータをウェブでリアルタイムに確認でき、期間別グラフとExcel出力で振り返れるようにしました。
+
+**主な機能** · 巣箱ごとの温度・湿度・CO2・重量を測定 · ESP-NOWで複数のセンサーボードのデータを1台に集約して送信 · 1分ごとにMySQLへ保存 · センサー別のデータ表とGoogle Chartsのグラフ · 蜂の出入りを数えるBee Counterと巣箱入口の画像
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/hive-1.jpg" alt="巣箱ごとのセンサー状況画面（温湿度・CO2・重量）" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/hive-2.jpg" alt="センサー別の温度・湿度の推移グラフ" width="32%"></p>
+<sub>ESP32 · Arduino (C++) · ESP-NOW · DHT · MQ135 · HX711 · PHP · MySQL · Google Charts · CST · VNA</sub>
+
+</details>
+
+
 ---
 
 ### 💼 職歴
@@ -97,7 +144,8 @@
 - **차량용 CAN/CAN-FD** — Sungkyunkwan University (Jun 2024) · [証明書](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/automotive-can.jpg)
 - **디지털 3D 프린팅 기초 교육** — Incheon National University (Dec 2023), No. 2023-교내비교과-011974 · [証明書](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/3d-printing-certificate.pdf)
 - **기업가정신 교육** — Incheon National University (Oct 2023) · [証明書](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/entrepreneurship.jpg)
-- プログラミング学術サークル **"NULL"** (2019 – 2023) — プロジェクト・ハッカソン、後輩へのC/C++/Pythonメンタリング
+- プログラミング学術サークル **"NULL"** (2019 – 2024 · 2023年 会長) — プロジェクト・ハッカソン、後輩へのC/C++/Pythonメンタリング
+- 大学フットサルサークル **"Chaba"** (2023 – 2024) — 会長
 
 </details>
 

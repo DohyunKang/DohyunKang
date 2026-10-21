@@ -18,7 +18,7 @@
 <table align="center"><tr>
 <td align="center" width="33%"><h3>3.93<sub> / 4.5</sub></h3><sub>总学分 (GPA)<br>专业 4.05 / 4.5</sub></td>
 <td align="center" width="33%"><h3>4<sub>项</sub></h3><sub>竞赛·学术获奖</sub></td>
-<td align="center" width="33%"><h3>6<sub>次</sub></h3><sub>领导经验<br>组长 3 次 · 训练营班长 · 社团会长 · 部队班长</sub></td>
+<td align="center" width="33%"><h3>7<sub>次</sub></h3><sub>领导经验<br>组长 3 次 · 训练营班长 · 社团会长 2 次 · 部队班长</sub></td>
 </tr></table>
 
 ### 🙋 About
@@ -61,6 +61,53 @@
 </tr>
 </table>
 
+<!-- project-details -->
+<details>
+<summary><b>项目详情</b></summary>
+
+
+#### 别墅停车管理应用
+
+- **问题** — 狭小的别墅停车场**看不到空位**，也不知道前车何时离开，“请挪车”的联络不断。
+- **我做的事** — 作为 4 人团队的组长，我编写了需求、界面设计和 ERD，用 **YOLOv8 识别车辆、EasyOCR 识别车牌**，在 Django 网页上显示各车位状态和预计出库时间。
+- **结构** — 摄像头端把识别结果发送到服务器 API，服务器更新车位状态，网页显示状态、出库时间和公告板。我们用缩小模型停车场做了演示。
+- **结果** — **ACK 2024 论文优秀奖**，**Hanium ICT 导师制竞赛入选**。
+- **后续** — 竞赛结束后我独自继续了约 5 个月：**用 React 重做界面**并每 1.5 秒自动刷新；把出库预测换成数据少也稳定的**高斯过程**，并用 Docker 和 GitHub Actions 整理了部署。
+
+**主要功能** · 车辆识别 + 车牌识别，误识别用相似度匹配修正 · 各车位状态与剩余车位数 · 按星期登记出库时间并预测出库时间 · 综合距离、习惯、邻车出库与堵车风险的车位推荐（显示评分依据） · 公告、留言板、聊天，周边停车场地图 · 韩语 / 英语 / 日语，无需硬件的演示模式
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-v2.jpg" alt="改进版（v2）— 推荐车位与实时状态" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-1.jpg" alt="第一版停车状态 — 各车位车牌与预计出库时间" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-2.jpg" alt="演示用缩小模型停车场的摄像头画面" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/parking-3.jpg" alt="按星期设置入库 / 出库时间" width="32%"></p>
+<sub>Python · Django · DRF · React · Vite · Tailwind CSS · YOLOv8 · EasyOCR · OpenCV · Gaussian Process · Docker · GitHub Actions</sub>
+
+
+#### 带通信功能的安全帽
+
+- **问题** — 现场作业人员摔倒或接触有害气体时，**管理员往往无法第一时间知道。**
+- **我做的事** — 我设计了安装在安全帽上的支架，焊接传感器电路，并编写了 Arduino（SAMD21）固件和 **PyQt5 监控程序**。
+- **结构** — 安全帽通过 **LoRa** 发送 CO2、TVOC、温湿度、气压数值和状态，接收器附上信号强度（RSSI）传给 PC，监控界面按作业人员显示。
+- **结果** — 2023 仁川大学产学 Capstone Design 竞赛**银奖**。
+
+**主要功能** · 用加速度传感器检测摔倒，10 秒无动作即判定为事故 · 事故时安全帽蜂鸣报警，监控界面变红 · 突出显示危险数值（如 CO2 超过 1000ppm） · 最多同时监控 6 人，信号中断 4 秒以上显示“连接断开” · LoRa 远距离无线通信
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/helmet-1.jpg" alt="装有传感器、LoRa 模块和电池的安全帽样机" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/helmet-2.jpg" alt="监控程序 — 作业人员 1 的传感器数值与状态（正常）" width="32%"></p>
+<sub>Arduino (SAMD21) · C/C++ · LoRa (RFM95) · LSM6DS3 · CCS811 · BME280 · Python · PyQt5</sub>
+
+
+#### 养蜂 IoT
+
+- **背景** — 这是与**安东大学**合作的农村振兴厅课题，目标是远程监测蜂箱状态。
+- **我做的事** — 我编写了连接温湿度（DHT）、气体（MQ135）、重量（称重传感器）的 ESP32 固件，以及存储和展示数据的 **PHP·MySQL 网页**。在实验室还负责 CST 天线设计和 VNA·频谱分析仪测量。
+- **结构** — 每个蜂箱的传感器板通过 **ESP-NOW** 把数据发给主板，主板再经 Wi-Fi 上传服务器。为省电，测量间隙进入深度睡眠。
+- **结果** — 可以在网页上实时查看 3 个蜂箱和外部环境的数据，并通过分时段图表和 Excel 导出进行回顾。
+
+**主要功能** · 测量各蜂箱的温度、湿度、CO2 和重量 · 用 ESP-NOW 把多个传感器板的数据汇总到一块板上发送 · 每分钟存入 MySQL · 按传感器的数据表与 Google Charts 图表 · 统计蜜蜂进出的 Bee Counter 与蜂箱入口图片
+
+<p><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/hive-1.jpg" alt="各蜂箱传感器状态界面（温湿度·CO2·重量）" width="32%"> <img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/projects/hive-2.jpg" alt="各传感器温度·湿度变化图" width="32%"></p>
+<sub>ESP32 · Arduino (C++) · ESP-NOW · DHT · MQ135 · HX711 · PHP · MySQL · Google Charts · CST · VNA</sub>
+
+</details>
+
+
 ---
 
 ### 💼 经历
@@ -97,7 +144,8 @@
 - **차량용 CAN/CAN-FD** — Sungkyunkwan University (Jun 2024) · [证书](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/automotive-can.jpg)
 - **디지털 3D 프린팅 기초 교육** — Incheon National University (Dec 2023), No. 2023-교내비교과-011974 · [证书](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/3d-printing-certificate.pdf)
 - **기업가정신 교육** — Incheon National University (Oct 2023) · [证书](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/entrepreneurship.jpg)
-- 编程学术社团 **"NULL"** (2019 – 2023) — 项目、黑客松，指导学弟学妹 C/C++/Python
+- 编程学术社团 **"NULL"** (2019 – 2024 · 2023 年会长) — 项目、黑客松，指导学弟学妹 C/C++/Python
+- 大学五人制足球社团 **"Chaba"** (2023 – 2024) — 会长
 
 </details>
 
