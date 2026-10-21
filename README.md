@@ -17,7 +17,7 @@
 </p>
 
 <table align="center"><tr>
-<td align="center" width="33%"><h3>3.93<sub> / 4.5</sub></h3><sub>GPA (major 4.05)</sub></td>
+<td align="center" width="33%"><h3><sub>Overall</sub> 3.93<sub> / 4.5</sub></h3><b><sub>Major</sub> 4.05<sub> / 4.5</sub></b><br><sub>GPA</sub></td>
 <td align="center" width="33%"><h3>4<sub> awards</sub></h3><sub>Contest &amp; academic awards</sub></td>
 <td align="center" width="33%"><h3>6<sub> roles</sub></h3><sub>Leadership experience<br>Team lead ×3 · Bootcamp class lead · Club president · Squad leader</sub></td>
 </tr></table>

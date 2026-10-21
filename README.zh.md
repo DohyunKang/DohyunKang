@@ -17,7 +17,7 @@
 </p>
 
 <table align="center"><tr>
-<td align="center" width="33%"><h3>3.93<sub> / 4.5</sub></h3><sub>学分（专业 4.05）</sub></td>
+<td align="center" width="33%"><h3><sub>总</sub> 3.93<sub> / 4.5</sub></h3><b><sub>专业</sub> 4.05<sub> / 4.5</sub></b><br><sub>学分 (GPA)</sub></td>
 <td align="center" width="33%"><h3>4<sub>项</sub></h3><sub>竞赛·学术获奖</sub></td>
 <td align="center" width="33%"><h3>6<sub>次</sub></h3><sub>领导经验<br>组长 3 次 · 训练营班长 · 社团会长 · 部队班长</sub></td>
 </tr></table>
