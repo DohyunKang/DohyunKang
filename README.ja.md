@@ -1,9 +1,6 @@
 <p align="right">🌐 <a href="https://github.com/DohyunKang">English</a> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.ko.md">한국어</a> · <b>日本語</b> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.zh.md">中文</a></p>
 
-<a href="https://dohyunkang.github.io/ja.html"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-dark.svg">
-  <img alt="こんにちは、カン・ドヒョンです 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg" width="100%">
-</picture></a>
+<a href="https://dohyunkang.github.io/ja.html"><img alt="こんにちは、カン・ドヒョンです 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg#gh-light-mode-only" width="100%"><img alt="こんにちは、カン・ドヒョンです 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-dark.svg#gh-dark-mode-only" width="100%"></a>
 
 <h3 align="center">自ら開発し、経験しながら<br>PMの道を歩んでいます</h3>
 
