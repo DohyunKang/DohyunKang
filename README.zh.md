@@ -12,7 +12,6 @@
 
 <p align="center">
 <a href="https://dohyunkang.github.io/zh.html"><img src="https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=flat-square" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/dohyun-kang-5a97933a5/"><img src="https://img.shields.io/badge/LinkedIn-Dohyun_Kang-0A66C2?style=flat-square" alt="LinkedIn"></a>
 <a href="mailto:kid708502@gmail.com"><img src="https://img.shields.io/badge/Email-kid708502@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -120,4 +119,4 @@
 </details>
 
 ### 📫 联系方式
-**Email** gulpo1@naver.com · kid708502@gmail.com  **LinkedIn** [Dohyun Kang](https://www.linkedin.com/in/dohyun-kang-5a97933a5/)
+**Email** gulpo1@naver.com · kid708502@gmail.com
