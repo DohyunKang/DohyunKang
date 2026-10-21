@@ -17,7 +17,7 @@
 </p>
 
 <table align="center"><tr>
-<td align="center" width="33%"><h3><sub>총</sub> 3.93<sub> / 4.5</sub></h3><b><sub>전공</sub> 4.05<sub> / 4.5</sub></b><br><sub>학점</sub></td>
+<td align="center" width="33%"><h3>3.93<sub> / 4.5</sub></h3><sub>총 학점<br>전공 4.05 / 4.5</sub></td>
 <td align="center" width="33%"><h3>4<sub>개</sub></h3><sub>공모전·학술 수상</sub></td>
 <td align="center" width="33%"><h3>6<sub>번</sub></h3><sub>리더 경험<br>팀장 3 · 부트캠프 반장 · 동아리 회장 · 분대장</sub></td>
 </tr></table>
