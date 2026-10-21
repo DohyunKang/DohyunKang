@@ -1,6 +1,10 @@
 <p align="right">🌐 <a href="https://github.com/DohyunKang">English</a> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.ko.md">한국어</a> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.ja.md">日本語</a> · <b>中文</b></p>
 
-<a href="https://dohyunkang.github.io/zh.html"><img alt="你好，我是姜度贤 (Dohyun Kang) 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg#gh-light-mode-only" width="100%"><img alt="你好，我是姜度贤 (Dohyun Kang) 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-dark.svg#gh-dark-mode-only" width="100%"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg">
+  <img alt="你好，我是姜度贤 (Dohyun Kang) 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg" width="100%">
+</picture>
 
 <h3 align="center">亲手开发、亲身实践，<br>走在 PM 的路上</h3>
 

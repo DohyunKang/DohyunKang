@@ -1,6 +1,10 @@
 <p align="right">🌐 <a href="https://github.com/DohyunKang">English</a> · <b>한국어</b> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.ja.md">日本語</a> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.zh.md">中文</a></p>
 
-<a href="https://dohyunkang.github.io/"><img alt="안녕하세요, 강도현입니다 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg#gh-light-mode-only" width="100%"><img alt="안녕하세요, 강도현입니다 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-dark.svg#gh-dark-mode-only" width="100%"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg">
+  <img alt="안녕하세요, 강도현입니다 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg" width="100%">
+</picture>
 
 <h3 align="center">직접 개발하고 경험하며<br>PM의 길을 걷고 있습니다</h3>
 
