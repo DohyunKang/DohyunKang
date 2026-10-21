@@ -1,40 +1,51 @@
 <p align="right">🌐 <b>English</b> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.ko.md">한국어</a> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.ja.md">日本語</a> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.zh.md">中文</a></p>
 
-# Hi, I'm Dohyun Kang 👋
+<a href="https://dohyunkang.github.io/en.html"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-dark.svg">
+  <img alt="Hi, I'm Dohyun Kang 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg" width="100%">
+</picture></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=for-the-badge)](https://dohyunkang.github.io/en.html)
+<h3 align="center">Building things myself,<br>on my way to becoming a PM</h3>
 
-**Junior PM · AI/AX** at Allie Research Inc. — from planning to development, with a background in embedded systems.
+<p align="center">
+<a href="https://dohyunkang.github.io/en.html"><img src="https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=flat-square" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/dohyun-kang-5a97933a5/"><img src="https://img.shields.io/badge/LinkedIn-Dohyun_Kang-0A66C2?style=flat-square" alt="LinkedIn"></a>
+<a href="mailto:kid708502@gmail.com"><img src="https://img.shields.io/badge/Email-kid708502@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<table align="center"><tr>
+<td align="center" width="33%"><h3>3.93<sub> / 4.5</sub></h3><sub>GPA (major 4.05)</sub></td>
+<td align="center" width="33%"><h3>4<sub> awards</sub></h3><sub>Contest &amp; academic awards</sub></td>
+<td align="center" width="33%"><h3>6<sub> roles</sub></h3><sub>Leadership experience<br>Team lead ×3 · Bootcamp class lead · Club president · Squad leader</sub></td>
+</tr></table>
+
+### 🙋 About
+*I like making ideas real and digging deep*
 
 - 🧭 Product & marketing planning, requirements, cross-team coordination
 - 🤖 AI-assisted software development
 - 🔧 Embedded systems — C/C++, Linux kernel, CAN
 
----
+### 🛠️ Skills
+<table>
+<tr><td><sub><b>Comfortable</b></sub></td><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></td></tr>
+<tr><td><sub><b>Familiar</b></sub></td><td><img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></td></tr>
+<tr><td><sub><b>Have used</b></sub></td><td><img src="https://img.shields.io/badge/LabVIEW-FFC20E?style=flat-square" alt="LabVIEW"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square" alt="AWS EC2"></td></tr>
+</table>
 
-### 🛠️ Tech
+### 🗂️ Work
+*From problem to result* · [View details →](https://dohyunkang.github.io/en.html#work)
 
-**AI & ML**
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
-**Web & backend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Systems & tools**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-[![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=DohyunKang&layout=compact&v=1.1)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/en.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-test.png" alt="Measurement &amp; Diagnostics Automation Tool" width="100%"></a><br><b>Measurement &amp; Diagnostics Automation Tool</b> <code>Field Practice</code><br><sub>2024.08 – 2025.02 · Techways</sub><br>I replaced manual equipment operation and diagnostic checks with a tool.<br>🏆 <sub>Grand Prize, Field Practice Essay Contest</sub></td>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/en.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-parking.jpg" alt="Villa Parking Management App" width="100%"></a><br><b>Villa Parking Management App</b> <code>Team · Team lead</code><br><sub>2024.04 – 10 · Team of 4</sub><br>License plate recognition and departure-time prediction to ease double-parking trouble.<br>🏆 <sub>ACK 2024 Paper Excellence Award · Hanium Contest Selected</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/en.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-helmet.jpg" alt="Smart Safety Helmet" width="100%"></a><br><b>Smart Safety Helmet</b> <code>Team</code><br><sub>2023.05 – 07 · Team of 4</sub><br>Detects falls and harmful gas, and alerts a manager wirelessly.<br>🏆 <sub>Silver Prize, Industry-Academia Capstone Design</sub></td>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/en.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-hive.png" alt="Beekeeping IoT" width="100%"></a><br><b>Beekeeping IoT</b> <code>Industry-Academia</code><br><sub>2022.09 – 2023.12 · High-Frequency Antenna Design Lab</sub><br>With the Rural Development Administration and Andong National University, I made hive temperature, humidity and gas viewable remotely.</td>
+</tr>
+</table>
 
 ---
 

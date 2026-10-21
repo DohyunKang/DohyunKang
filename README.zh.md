@@ -1,40 +1,51 @@
 <p align="right">🌐 <a href="https://github.com/DohyunKang">English</a> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.ko.md">한국어</a> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.ja.md">日本語</a> · <b>中文</b></p>
 
-# 你好，我是姜度贤 (Dohyun Kang) 👋
+<a href="https://dohyunkang.github.io/zh.html"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-dark.svg">
+  <img alt="你好，我是姜度贤 (Dohyun Kang) 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg" width="100%">
+</picture></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=for-the-badge)](https://dohyunkang.github.io/zh.html)
+<h3 align="center">亲手开发、亲身实践，<br>走在 PM 的路上</h3>
 
-Allie Research Inc. **初级产品经理 · AI/AX** — 负责从策划到开发，具备嵌入式系统背景。
+<p align="center">
+<a href="https://dohyunkang.github.io/zh.html"><img src="https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=flat-square" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/dohyun-kang-5a97933a5/"><img src="https://img.shields.io/badge/LinkedIn-Dohyun_Kang-0A66C2?style=flat-square" alt="LinkedIn"></a>
+<a href="mailto:kid708502@gmail.com"><img src="https://img.shields.io/badge/Email-kid708502@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<table align="center"><tr>
+<td align="center" width="33%"><h3>3.93<sub> / 4.5</sub></h3><sub>学分（专业 4.05）</sub></td>
+<td align="center" width="33%"><h3>4<sub>项</sub></h3><sub>竞赛·学术获奖</sub></td>
+<td align="center" width="33%"><h3>6<sub>次</sub></h3><sub>领导经验<br>组长 3 次 · 训练营班长 · 社团会长 · 部队班长</sub></td>
+</tr></table>
+
+### 🙋 About
+*喜欢把想法变成现实，也爱钻研*
 
 - 🧭 产品与营销策划、需求整理、跨团队协调
 - 🤖 AI 辅助的软件开发
 - 🔧 嵌入式系统 — C/C++、Linux 内核、CAN
 
----
+### 🛠️ Skills
+<table>
+<tr><td><sub><b>熟练</b></sub></td><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></td></tr>
+<tr><td><sub><b>能用</b></sub></td><td><img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></td></tr>
+<tr><td><sub><b>用过</b></sub></td><td><img src="https://img.shields.io/badge/LabVIEW-FFC20E?style=flat-square" alt="LabVIEW"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square" alt="AWS EC2"></td></tr>
+</table>
 
-### 🛠️ 技术
+### 🗂️ Work
+*从问题到结果* · [查看详情 →](https://dohyunkang.github.io/zh.html#work)
 
-**AI & ML**
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
-**Web & backend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Systems & tools**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-[![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=DohyunKang&layout=compact&v=1.1)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/zh.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-test.png" alt="测量·诊断自动化工具" width="100%"></a><br><b>测量·诊断自动化工具</b> <code>现场实习</code><br><sub>2024.08 – 2025.02 · Techways</sub><br>把手动逐个操作设备、逐项确认诊断的工作，改成了工具。<br>🏆 <sub>现场实习心得征文大赛 最优秀奖</sub></td>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/zh.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-parking.jpg" alt="别墅停车管理应用" width="100%"></a><br><b>别墅停车管理应用</b> <code>Team · 组长</code><br><sub>2024.04 – 10 · 4人团队</sub><br>通过车牌识别与出库时间预测，减轻了双排停车的困扰。<br>🏆 <sub>ACK 2024 论文优秀奖 · Hanium 竞赛入选</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/zh.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-helmet.jpg" alt="带通信功能的安全帽" width="100%"></a><br><b>带通信功能的安全帽</b> <code>Team</code><br><sub>2023.05 – 07 · 4人团队</sub><br>检测摔倒和有害气体，并无线通知管理员。<br>🏆 <sub>产学 Capstone Design 银奖</sub></td>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/zh.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-hive.png" alt="养蜂 IoT" width="100%"></a><br><b>养蜂 IoT</b> <code>产学合作</code><br><sub>2022.09 – 2023.12 · 高频天线设计实验室</sub><br>与农村振兴厅、安东大学合作，实现了远程查看蜂箱温湿度与气体。</td>
+</tr>
+</table>
 
 ---
 

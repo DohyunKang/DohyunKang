@@ -1,40 +1,51 @@
 <p align="right">🌐 <a href="https://github.com/DohyunKang">English</a> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.ko.md">한국어</a> · <b>日本語</b> · <a href="https://github.com/DohyunKang/DohyunKang/blob/main/README.zh.md">中文</a></p>
 
-# こんにちは、カン・ドヒョンです 👋
+<a href="https://dohyunkang.github.io/ja.html"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-dark.svg">
+  <img alt="こんにちは、カン・ドヒョンです 👋" src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/banner-light.svg" width="100%">
+</picture></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=for-the-badge)](https://dohyunkang.github.io/ja.html)
+<h3 align="center">自ら開発し、経験しながら<br>PMの道を歩んでいます</h3>
 
-Allie Research Inc. **ジュニアPM · AI/AX** — 企画から開発まで担当しています。組み込みシステムの経験がベースです。
+<p align="center">
+<a href="https://dohyunkang.github.io/ja.html"><img src="https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=flat-square" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/dohyun-kang-5a97933a5/"><img src="https://img.shields.io/badge/LinkedIn-Dohyun_Kang-0A66C2?style=flat-square" alt="LinkedIn"></a>
+<a href="mailto:kid708502@gmail.com"><img src="https://img.shields.io/badge/Email-kid708502@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<table align="center"><tr>
+<td align="center" width="33%"><h3>3.93<sub> / 4.5</sub></h3><sub>GPA（専攻 4.05）</sub></td>
+<td align="center" width="33%"><h3>4<sub>件</sub></h3><sub>コンテスト・学術での受賞</sub></td>
+<td align="center" width="33%"><h3>6<sub>回</sub></h3><sub>リーダー経験<br>チームリーダー3回 · ブートキャンプのクラス代表 · サークル会長 · 分隊長</sub></td>
+</tr></table>
+
+### 🙋 About
+*考えたことを形にし、掘り下げるのが好きです*
 
 - 🧭 プロダクト・マーケティング企画、要件定義、チーム間の業務調整
 - 🤖 AIを活用したソフトウェア開発
 - 🔧 組み込みシステム — C/C++、Linuxカーネル、CAN
 
----
+### 🛠️ Skills
+<table>
+<tr><td><sub><b>得意</b></sub></td><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></td></tr>
+<tr><td><sub><b>ある程度使える</b></sub></td><td><img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></td></tr>
+<tr><td><sub><b>使ったことがある</b></sub></td><td><img src="https://img.shields.io/badge/LabVIEW-FFC20E?style=flat-square" alt="LabVIEW"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square" alt="AWS EC2"></td></tr>
+</table>
 
-### 🛠️ 技術
+### 🗂️ Work
+*課題から成果まで* · [詳しく見る →](https://dohyunkang.github.io/ja.html#work)
 
-**AI & ML**
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
-**Web & backend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Systems & tools**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-[![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=DohyunKang&layout=compact&v=1.1)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/ja.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-test.png" alt="計測・診断の自動化ツール" width="100%"></a><br><b>計測・診断の自動化ツール</b> <code>現場実習</code><br><sub>2024.08 – 2025.02 · Techways</sub><br>手作業で一つずつ行っていた機器の操作と診断の確認を、ツールに置き換えました。<br>🏆 <sub>現場実習 体験記コンテスト 最優秀賞</sub></td>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/ja.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-parking.jpg" alt="ヴィラ向け駐車管理アプリ" width="100%"></a><br><b>ヴィラ向け駐車管理アプリ</b> <code>Team · リーダー</code><br><sub>2024.04 – 10 · 4人チーム</sub><br>ナンバープレート認識と出庫時間の予測で、二重駐車の不便を減らしました。<br>🏆 <sub>ACK 2024 論文優秀賞 · ハンイウム(Hanium)コンテスト 入選</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/ja.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-helmet.jpg" alt="通信機能付きヘルメット" width="100%"></a><br><b>通信機能付きヘルメット</b> <code>Team</code><br><sub>2023.05 – 07 · 4人チーム</sub><br>転倒や有害ガスを検知して、管理者に無線で知らせます。<br>🏆 <sub>産学キャップストーンデザイン 銀賞</sub></td>
+<td width="50%" valign="top"><a href="https://dohyunkang.github.io/ja.html#work"><img src="https://raw.githubusercontent.com/DohyunKang/DohyunKang/main/assets/profile/cover-hive.png" alt="養蜂IoT" width="100%"></a><br><b>養蜂IoT</b> <code>産学協力</code><br><sub>2022.09 – 2023.12 · 高周波アンテナ設計研究室</sub><br>農村振興庁・安東大学と共に、巣箱の温湿度とガスを遠隔で確認できるようにしました。</td>
+</tr>
+</table>
 
 ---
 
