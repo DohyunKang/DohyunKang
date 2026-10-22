@@ -11,6 +11,7 @@
 <p align="center">🟢 <sub><b>现就职于</b></sub>&nbsp; <b>Allie Research Inc.</b> · Junior PM · AI/AX</p>
 
 <p align="center">
+<a href="https://dohyunkang.github.io/resume.zh.html"><img src="https://img.shields.io/badge/Resume-view-2F47C6?style=flat-square" alt="简历"></a>
 <a href="https://dohyunkang.github.io/zh.html"><img src="https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=flat-square" alt="Portfolio"></a>
 <a href="mailto:kid708502@gmail.com"><img src="https://img.shields.io/badge/Email-kid708502@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -152,7 +153,7 @@
 <details>
 <summary>📝 作品集与文档</summary>
 
-**简历** — [Dohyun_Kang_Resume.pdf](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/resume-en.pdf)
+**简历** — [在线查看](https://dohyunkang.github.io/resume.zh.html) · [PDF](https://github.com/DohyunKang/DohyunKang/blob/main/assets/docs/resume-zh.pdf)
 
 **成绩证明** — [成绩证明](https://github.com/DohyunKang/DohyunKang/blob/main/assets/certs/transcript.jpg) (GPA 3.93 / 4.5)
 
