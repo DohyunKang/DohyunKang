@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://dohyunkang.github.io/resume.html"><img src="https://img.shields.io/badge/Resume-view-2F47C6?style=flat-square" alt="이력서"></a>
 <a href="https://dohyunkang.github.io/"><img src="https://img.shields.io/badge/Portfolio-dohyunkang.github.io-2F47C6?style=flat-square" alt="Portfolio"></a>
+<a href="https://dohyunkang.github.io/blog/"><img src="https://img.shields.io/badge/Blog-dohyun%27s_log-2F47C6?style=flat-square" alt="블로그"></a>
 <a href="mailto:kid708502@gmail.com"><img src="https://img.shields.io/badge/Email-kid708502@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
